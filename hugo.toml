@@ -6,3 +6,7 @@ disqusShortname = 'nairobieats'
 
 [params]
 post_content_classes = 'avenir next'
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-XTPPNNQL5X'
