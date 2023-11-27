@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'Nairobi Eats'
 theme = "ananke"
 disqusShortname = 'nairobieats'
+
+[params]
+post_content_classes = 'avenir next'
