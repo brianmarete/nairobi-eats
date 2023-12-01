@@ -16,7 +16,7 @@ Love how they brand their coffee drinks with their name, this is what attracted 
 
 I should have been concerned about the tiramisu when I saw the ratio of cream to biscuit/cake at the display section😬 What was brought to me… was a frozen slab of what they think is tiramisu but is just a whole lot of cream and a sliver of cake within it, dusted off with coffee powder. I couldn’t finish it, would not recommend😬
 
-For dinner we tried a couple of things: bbq chicken wings (650/), garlic rosemary lamb chops (2000/) & the Rogan Josh - a mutton curry (1800/)
+For dinner we tried a couple of things: bbq chicken wings (KSH650), garlic rosemary lamb chops (KSH2,000) & the Rogan Josh - a mutton curry (KSH1,800)
 
 The wings were great, very bbq-y, tasty and the sauce accompanying them - also really good. The mutton curry was so good! I don’t eat mutton often but that meat was super soft and they really let that curry really cook, the flavours were evident. It came with spicy rice which made the perfect pairing. The rice came off a tad salty but I wasn’t too fussed, because the spiciness of the curry helped manage that quite well.
 
@@ -24,4 +24,10 @@ The lamb chops came with mashed potatoes and coleslaw (you can choose 1 or 2 sid
 
 The place is really well outfitted, with nice well-spaced booths along the walls, and really striking wallpaper/paintings that catch your eye throughout the whole cafe. The service was okay - the waitress wasn’t doing much to assure us about the different dishes available but she was attentive.
 
-They also have high tea for 2 for 3000/. It’s a cute setup, really cute but none of the cakes and pastries looked appealing and after that tiramisu, I don’t think I’d want to taste anything from their bakery… so overall I think their strength lies in the main meals which they do very well, I’ll be happy to try more from their main menu👌🏾
+They also have high tea for 2 for KSH3,000. It’s a cute setup, really cute but none of the cakes and pastries looked appealing and after that tiramisu, I don’t think I’d want to taste anything from their bakery… so overall I think their strength lies in the main meals which they do very well, I’ll be happy to try more from their main menu👌🏾
+
+### Ratings
+
+Food:⭐️⭐️⭐️<br>
+Service:⭐️⭐️.5<br>
+Ambience: ⭐️⭐️⭐️<br>

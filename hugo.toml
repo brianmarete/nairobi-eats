@@ -4,6 +4,9 @@ title = 'Nairobi Eats'
 theme = "ananke"
 disqusShortname = 'nairobieats'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 post_content_classes = 'avenir next'
 
