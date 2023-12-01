@@ -1,6 +1,6 @@
 baseURL = 'https://nairobieats.co.ke/'
 languageCode = 'en-us'
-title = 'Nairobi Eats'
+title = '#NairobiEats'
 theme = "ananke"
 disqusShortname = 'nairobieats'
 
@@ -12,7 +12,7 @@ post_content_classes = 'avenir next'
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/dodmichaela"
+url = "https://twitter.com/_brianmarete/status/1631598293414457344"
 label = "Twitter"
 
 [[params.ananke_socials]]

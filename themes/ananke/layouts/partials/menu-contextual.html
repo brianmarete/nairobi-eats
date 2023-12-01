@@ -32,11 +32,13 @@ https://gohugo.io/content-management/related/ */}} {{ $related :=
   <p>Mon - Sun: 8am - 10pm</p>
 </div>
 
+{{- if .Params.maps_query -}}
 <iframe
   width="300"
   height="250"
   style="border: 0"
   loading="lazy"
   allowfullscreen
-  src="https://www.google.com/maps/embed/v1/place?zoom=17&q=cuban+code+lavington+nairobi&key=AIzaSyDdCu46Y_U2HvjC0PZwwqlPGtx0LHak5u4"
+  src="https://www.google.com/maps/embed/v1/place?zoom=17&q={{ .Params.maps_query}}&key=AIzaSyDdCu46Y_U2HvjC0PZwwqlPGtx0LHak5u4"
 ></iframe>
+{{- end -}}
