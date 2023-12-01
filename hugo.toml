@@ -10,6 +10,16 @@ unsafe = true
 [params]
 post_content_classes = 'avenir next'
 
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/dodmichaela"
+label = "Twitter"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/nairobi.eats/"
+label = "Instagram"
+
 [services]
   [services.googleAnalytics]
     ID = 'G-XTPPNNQL5X'
