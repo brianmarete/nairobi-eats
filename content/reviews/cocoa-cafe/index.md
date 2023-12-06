@@ -3,6 +3,7 @@ title = 'Cocoa Cafe - Alta Towers, Kilimani'
 date = 2023-11-23T13:02:36+03:00
 draft = false
 maps_query = "Cocoa+Cafe,+Alta+towers,+Ring+Road,+Kilimani,+Nairobi,+Kenya"
+business_hours = ["Mon - Sun: 8am - 10pm"]
 +++
 
 Had a belated birthday dinner plan with a dear friend and she suggested we try out Cocoa Cafe located in Alta Towers, just opposite Yaya centre.

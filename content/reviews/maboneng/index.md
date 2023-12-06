@@ -1,8 +1,9 @@
 +++
 title = 'Maboneng - Kilimani'
-featured_image = "Maboneng.jpeg"
 maps_query = "maboneng+kilimani+nairobi+kenya"
+business_hours = ["Mon - Sun: 10am - 11pm"]
 date = 2023-11-23T13:13:29+03:00
+cover_dimming_class = "bg-black-40"
 draft = false
 +++
 
@@ -20,7 +21,4 @@ Food:⭐️⭐️⭐️<br>
 Service:⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
 
-<img src="Maboneng2.jpeg" style="width: 49%; margin-right: 1%">
-<img src="Maboneng4.jpeg" style="width: 50%; float: right;">
-<img src="maboneng1.jpeg">
-<img src="Maboneng3.jpeg">
+{{< image-gallery gallery_dir="/images/maboneng" >}}

@@ -4,11 +4,9 @@
     <div class="flex flex-column flex-row-ns">
       {{ if $featured_image }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-        <div class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-ns" "pr3-ns" }} mb4 mb0-ns w-100 w-40-ns">
-          <a href="{{.RelPermalink}}" class="db grow">
-            <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
-          </a>
-        </div>
+        <a href="{{.RelPermalink}}" class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3-ns" "pr3-ns" }} mb4 mb0-ns w-100 w-40-ns grow">
+          <div style='background: url("{{ $featured_image }}") center center / cover no-repeat; height: 200px;'></div>
+        </a>
       {{ end }}
       <div class="blah w-100{{ if $featured_image }} w-60-ns {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr3-ns" "pl3-ns" }}{{ end }}">
         <h1 class="f3 fw1 athelas mt0 lh-title">

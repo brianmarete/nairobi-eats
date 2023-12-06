@@ -9,6 +9,7 @@ unsafe = true
 
 [params]
 post_content_classes = 'avenir next'
+custom_css = ['lightbox.css']
 
 [[params.ananke_socials]]
 name = "twitter"

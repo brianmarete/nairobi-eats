@@ -3,6 +3,7 @@ title = 'Pallet Cafe - Lavington'
 date = 2023-11-23T14:50:01+03:00
 draft = false
 maps_query = "pallet+cafe+lavington+nairobi+kenya"
+business_hours = ["Mon - Sun: 7:30am - 6:30pm"]
 +++
 
 Pallet cafe is located just opposite Lavington Green shopping mall, it has quite a small sign so be on the lookout for it so you don’t miss it.

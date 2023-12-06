@@ -23,16 +23,16 @@ https://gohugo.io/content-management/related/ */}} {{ $related :=
     {{ end }}
   </ul>
 </div>
-{{ end }}
-
+{{ end }} {{- if .Params.business_hours -}}
 <div
   class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links mb3"
 >
   <h4>Hours</h4>
-  <p>Mon - Sun: 8am - 10pm</p>
+  {{ range .Params.business_hours }}
+  <p>{{ . }}</p>
+  {{ end }}
 </div>
-
-{{- if .Params.maps_query -}}
+{{- end -}} {{- if .Params.maps_query -}}
 <iframe
   width="300"
   height="250"
