@@ -4,6 +4,7 @@ title = '#NairobiEats'
 theme = "ananke"
 disqusShortname = 'nairobieats'
 SectionPagesMenu = "main"
+Paginate = 6
 
 [markup.goldmark.renderer]
 unsafe = true

@@ -33,3 +33,5 @@ They also have high tea for 2 for KSH3,000. It’s a cute setup, really cute but
 Food:⭐️⭐️⭐️<br>
 Service:⭐️⭐️.5<br>
 Ambience: ⭐️⭐️⭐️<br>
+
+{{< image-gallery gallery_dir="/images/cocoa-cafe" >}}
