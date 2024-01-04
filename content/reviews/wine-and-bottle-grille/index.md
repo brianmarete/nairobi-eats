@@ -1,9 +1,9 @@
-+++
-date = 2023-12-18T12:11:24+03:00
-title = "The Wine and Bottle Grille"
-draft = false
-maps_query = "The+wine+and+bottle+grill,+Nairobi,+Kenya"
-+++
+---
+date: 2023-12-18T09:11:24.000Z
+title: The Wine and Bottle Grille
+draft: false
+maps_query: The+wine+and+bottle+grill,+Nairobi,+Kenya
+---
 
 This bar & grill is located in Westlands, in Ambience mall. It has two floors, the ground floor has an outdoor section which I think is more of the dining area, it’s set up is quite different from the upper floor. Inside the restaurant though (still on ground floor) just has the kitchen and yes seating but it was so empty - from the time I arrived (3pm) to the time I was leaving (9pm), there was barely anyone sitting down there so I guess people prefer the outside area and the upper area.
 
@@ -40,3 +40,5 @@ Overall I liked the vibe of the place, it’s a chill place to hang with friends
 Food:⭐️.5<br>
 Service:⭐️.5<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="wine-bottle" >}}

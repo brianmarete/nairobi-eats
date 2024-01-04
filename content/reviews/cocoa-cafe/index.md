@@ -1,10 +1,11 @@
-+++
-title = 'Cocoa Cafe - Alta Towers, Kilimani'
-date = 2023-11-23T13:02:36+03:00
-draft = false
-maps_query = "Cocoa+Cafe,+Alta+towers,+Ring+Road,+Kilimani,+Nairobi,+Kenya"
-business_hours = ["Mon - Sun: 8am - 10pm"]
-+++
+---
+title: Cocoa Cafe - Alta Towers, Kilimani
+date: 2023-11-23T10:02:36.000Z
+draft: false
+maps_query: Cocoa+Cafe,+Alta+towers,+Ring+Road,+Kilimani,+Nairobi,+Kenya
+business_hours:
+  - "Mon - Sun: 8am - 10pm"
+---
 
 Had a belated birthday dinner plan with a dear friend and she suggested we try out Cocoa Cafe located in Alta Towers, just opposite Yaya centre.
 
@@ -34,4 +35,4 @@ Food:⭐️⭐️⭐️<br>
 Service:⭐️⭐️.5<br>
 Ambience: ⭐️⭐️⭐️<br>
 
-{{< image-gallery gallery_dir="/images/cocoa-cafe" >}}
+{{< remote-image-gallery key="cocoa-cafe" >}}

@@ -1,10 +1,13 @@
-+++
-date = 2023-12-18T13:01:31+03:00
-title = "Nabo Bistro"
-draft = false
-maps_query = "Nabo+Bistro,Nairobi+Kenya"
-business_hours = ["Mon: Closed","Tue - Sat: 10am - 11pm","Sun: 10am - 9pm"]
-+++
+---
+date: 2023-12-18T10:01:31.000Z
+title: Nabo Bistro
+draft: false
+maps_query: Nabo+Bistro,Nairobi+Kenya
+business_hours:
+  - "Mon: Closed"
+  - "Tue - Sat: 10am - 11pm"
+  - "Sun: 10am - 9pm"
+---
 
 Nabo Bistro is a place I don’t visit often but only because I’m not usually on that side of town often. If I was… I’d really be a regular. Tucked in a nice little corner of Lavington, Nabo Bistro is a restaurant that isn’t particular to a type of cuisine - they have everything from burgers, pasta, tacos, steak, sandwiches and breakfast too.
 
@@ -31,3 +34,5 @@ I hope one of you will go try this whole meal (fish tacos as well) soon & tell m
 Food:⭐️⭐️⭐️⭐️⭐️<br>
 Service:⭐️⭐️⭐️⭐️<br>
 Ambience:⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="nabo" >}}

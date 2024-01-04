@@ -1,10 +1,11 @@
-+++
-date = 2023-12-18T12:57:40+03:00
-title = "Crafty Chameleon - Lavington "
-draft = false
-maps_query = "Crafty+Chameleon+Brewhouse+and+Restaurant,Nairobi+Kenya"
-business_hours = ["Mon - Sun: 12pm - 11pm"]
-+++
+---
+date: 2023-12-18T09:57:40.000Z
+title: "Crafty Chameleon - Lavington "
+draft: false
+maps_query: Crafty+Chameleon+Brewhouse+and+Restaurant,Nairobi+Kenya
+business_hours:
+  - "Mon - Sun: 12pm - 11pm"
+---
 
 Located on James Gichuru road, Crafty Chameleon is both an outdoor & indoor restaurant which I really love - you get the best of both worlds 😊
 
@@ -33,3 +34,5 @@ For a first impression, this was a great one, and also the company I had made it
 Food: ⭐️⭐️⭐️.5<br>
 Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="crafty-chameleon" >}}

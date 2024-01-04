@@ -1,10 +1,13 @@
-+++
-date = 2023-12-18T13:23:04+03:00
-title = "Small Heavens Cakes - Githurai"
-draft = false
-maps_query = ""
-business_hours = ["Mon - Fri: 8:30am - 5pm","Sat: 8:30am - 4pm","Sun: Closed"]
-+++
+---
+date: 2023-12-18T10:23:04.000Z
+title: Small Heavens Cakes - Githurai
+draft: false
+maps_query: ""
+business_hours:
+  - "Mon - Fri: 8:30am - 5pm"
+  - "Sat: 8:30am - 4pm"
+  - "Sun: Closed"
+---
 
 Small Heaven bakery sent me one of their medley boxes and being the sweet tooth that I am, I was very excited to eat cake all day everyday 😁 What I thought would just be a box of small sample sizes ended up being a big box of 8 healthy slices of cake! The flavours included Passion Fruit, Pina Colada, Sacher, Lemon Blueberry, Cinnamon & Cherry, Chocolate Mint, Fruit Delight and Lemon Poppy.
 
@@ -43,3 +46,5 @@ Overall I enjoyed trying out so many different types of cakes and the medley box
 The owner, Natasha, has a brilliant business on her hands with this bakery. I really want to know how she maintains this consistency in all the cakes, such amazing consistency and moistness even after days of refrigeration 👌🏾
 
 The medley box usually goes for KSH3,200 and is only available once a month so follow their [Instagram page](https://www.instagram.com/smallheavencakes/) to get notified when that will be as those boxes sell out quick! You can also order a slice or two or whole cakes of a flavour of your choice. The bakery is delivery only so not a place you can visit to have cake and tea but hopefully in future they will expand to dine-in.
+
+{{< remote-image-gallery key="small-heavens" >}}

@@ -1,0 +1,29 @@
+baseURL: https://nairobieats.co.ke/
+languageCode: en-us
+title: "#NairobiEats"
+copyright: NairobiEats
+theme: ananke
+disqusShortname: nairobieats
+SectionPagesMenu: main
+Paginate: 6
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  post_content_classes: avenir next
+  custom_css:
+    - lightbox.css
+  ananke_socials:
+    - name: twitter
+      url: https://twitter.com/_brianmarete/status/1631598293414457344
+      label: Twitter
+    - name: instagram
+      url: https://www.instagram.com/nairobi.eats/
+      label: Instagram
+
+services:
+  googleAnalytics:
+    ID: G-XTPPNNQL5X

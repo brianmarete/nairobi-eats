@@ -1,10 +1,11 @@
-+++
-title = 'Pablos Mexican Bar - Broadwalk Mall, Parklands'
-date = 2023-12-01T11:44:41+03:00
-draft = false
-maps_query = "Pablos+Mexobar,+Nairobi,+Kenya"
-business_hours = ["Mon - Sun: 11am - 11pm"]
-+++
+---
+title: Pablos Mexican Bar - Broadwalk Mall, Parklands
+date: 2023-12-01T08:44:41.000Z
+draft: false
+maps_query: Pablos+Mexobar,+Nairobi,+Kenya
+business_hours:
+  - "Mon - Sun: 11am - 11pm"
+---
 
 I heard about this place from a few people and never got a chance to visit until just recently. I never even knew the boardwalk mall existed until the day I went there😅
 
@@ -33,3 +34,5 @@ If I’m ever back in that mall though, I want to have the enchiladas again (bef
 Food: ⭐️⭐️⭐️.5<br>
 Service: ⭐️⭐️<br>
 Ambience: ⭐️⭐️<br>
+
+{{< remote-image-gallery key="pablos" >}}

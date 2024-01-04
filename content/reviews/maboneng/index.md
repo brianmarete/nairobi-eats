@@ -1,11 +1,12 @@
-+++
-title = 'Maboneng - Kilimani'
-maps_query = "maboneng+kilimani+nairobi+kenya"
-business_hours = ["Mon - Sun: 10am - 11pm"]
-date = 2023-11-23T13:13:29+03:00
-cover_dimming_class = "bg-black-40"
-draft = false
-+++
+---
+title: Maboneng - Kilimani
+maps_query: maboneng+kilimani+nairobi+kenya
+business_hours:
+  - "Mon - Sun: 10am - 11pm"
+date: 2023-11-23T10:13:29.000Z
+cover_dimming_class: bg-black-40
+draft: false
+---
 
 Maboneng Wings and Whisky is located at Ntashart Plaza, Kilimani which also has a Sno Cream parlour for those of you who are lucky enough to not be lactose intolerant & can handle their yummy ice-cream.
 
@@ -21,4 +22,4 @@ Food:⭐️⭐️⭐️<br>
 Service:⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
 
-{{< image-gallery gallery_dir="/images/maboneng" >}}
+{{< remote-image-gallery key="maboneng" >}}

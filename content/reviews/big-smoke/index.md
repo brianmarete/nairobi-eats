@@ -1,10 +1,11 @@
-+++
-date = 2023-12-18T13:32:27+03:00
-title = "Big Smoke"
-draft = false
-maps_query = "BIG+SMOKE+KAREN"
-business_hours = ["Mon - Sun: 7am - 11pm"]
-+++
+---
+date: 2023-12-18T10:32:27.000Z
+title: Big Smoke
+draft: false
+maps_query: BIG+SMOKE+KAREN
+business_hours:
+  - "Mon - Sun: 7am - 11pm"
+---
 
 There was so much hype about this place, so I was a bit worried it wouldn’t match up but I actually had quite a pleasant time 🙃
 
@@ -27,3 +28,5 @@ I enjoyed the vibe here, the food and especially the meat - and the pricing is g
 Food: ⭐️⭐️⭐️.5<br>
 Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="big-smoke" >}}
