@@ -1,5 +1,5 @@
 ---
-title: Silk Noodles - Kilimani
+title: Silk Noodles
 date: 2023-11-23T11:46:26.000Z
 draft: false
 maps_query: Silk+Noodles,+Nairobi,+Kenya

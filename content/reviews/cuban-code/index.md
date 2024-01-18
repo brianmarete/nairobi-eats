@@ -1,5 +1,5 @@
 ---
-title: Cuban Code - Lavington
+title: Cuban Code
 date: 2023-12-01T08:45:51.000Z
 draft: false
 maps_query: cuban+code+lavington+nairobi+kenya

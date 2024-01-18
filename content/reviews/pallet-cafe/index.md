@@ -1,5 +1,5 @@
 ---
-title: Pallet Cafe - Lavington
+title: Pallet Cafe
 date: 2023-11-23T11:50:01.000Z
 draft: false
 maps_query: pallet+cafe+lavington+nairobi+kenya

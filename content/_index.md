@@ -5,4 +5,4 @@ featured_image = "/image/Nairobi.jpg"
 draft = false
 +++
 
-Welcome to Nairobi Eats, a restaurant review site that is currently a work in progress. You can read some reviews below.
+Welcome to Nairobi Eats, your one-stop shop for restaurant reviews within Nairobi and beyond!

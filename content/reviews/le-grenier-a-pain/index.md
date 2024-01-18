@@ -1,5 +1,5 @@
 ---
-title: Le Grenier À Pain - 9 Riverside Drive
+title: Le Grenier À Pain
 date: 2023-11-23T10:10:21.000Z
 draft: false
 maps_query: Le+Grenier+À+Pain,+Riverside+nairobi+kenya

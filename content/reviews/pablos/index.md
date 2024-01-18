@@ -1,5 +1,5 @@
 ---
-title: Pablos Mexican Bar - Broadwalk Mall, Parklands
+title: Pablos Mexican Bar
 date: 2023-12-01T08:44:41.000Z
 draft: false
 maps_query: Pablos+Mexobar,+Nairobi,+Kenya

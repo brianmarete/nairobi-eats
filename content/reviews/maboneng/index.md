@@ -1,5 +1,5 @@
 ---
-title: Maboneng - Kilimani
+title: Maboneng
 maps_query: maboneng+kilimani+nairobi+kenya
 business_hours:
   - "Mon - Sun: 10am - 11pm"

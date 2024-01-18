@@ -1,5 +1,5 @@
 ---
-title: Cocoa Cafe - Alta Towers, Kilimani
+title: Cocoa Cafe
 date: 2023-11-23T10:02:36.000Z
 draft: false
 maps_query: Cocoa+Cafe,+Alta+towers,+Ring+Road,+Kilimani,+Nairobi,+Kenya
