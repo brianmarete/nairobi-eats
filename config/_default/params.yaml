@@ -1,0 +1,11 @@
+post_content_classes: avenir next
+site_logo: "image/NairobiEats-Logo-Black.png"
+custom_css:
+  - lightbox.css
+ananke_socials:
+  - name: twitter
+    url: https://twitter.com/_brianmarete/status/1631598293414457344
+    label: Twitter
+  - name: instagram
+    url: https://www.instagram.com/nairobi.eats/
+    label: Instagram

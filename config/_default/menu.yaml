@@ -1,0 +1,9 @@
+main:
+  - identifier: about
+    name: About
+    url: /about
+    weight: 100
+  - identifier: reviews
+    name: Reviews
+    url: /reviews
+    weight: 200

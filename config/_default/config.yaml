@@ -1,0 +1,9 @@
+baseURL: https://nairobieats.co.ke/
+languageCode: en-us
+title: "#NairobiEats"
+copyright: NairobiEats
+theme: ananke
+disqusShortname: nairobieats
+SectionPagesMenu: main
+Paginate: 6
+enableRobotsTXT: true
