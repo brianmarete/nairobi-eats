@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: "About NairobiEats"
+font_style: "i"
 ---
 
 Hey there!
@@ -9,4 +10,4 @@ My name is Diana and I'm a self-obsessed food lover. I'm also a writer who spend
 
 Through this blog, I'm excited to share my thoughts and experiences exploring the food world one restaurant at a time, one city at a time. I hope these reviews bring you one step closer to choosing the perfect date spot, that cool brunch spot and the best happy hour in town... Thank you so much for visiting, reading and sharing.
 
-Happy eating!
+Happy Eating!
