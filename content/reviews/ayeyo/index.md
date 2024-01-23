@@ -23,5 +23,5 @@ They’re available on all major delivery apps & maybe one day we’ll get to #t
 
 ### Ratings
 
-Food: ⭐️⭐️⭐️⭐️
+Food: ⭐️⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️
