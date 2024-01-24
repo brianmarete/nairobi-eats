@@ -7,3 +7,4 @@ disqusShortname: nairobieats
 SectionPagesMenu: main
 Paginate: 6
 enableRobotsTXT: true
+timeout: 60000
