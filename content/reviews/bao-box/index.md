@@ -37,3 +37,5 @@ I’d like to go back and try more of their food selections and also try some ka
 Food: ⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="bao-box" >}}

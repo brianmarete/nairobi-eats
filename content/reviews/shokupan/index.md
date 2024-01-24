@@ -16,3 +16,6 @@ I loved everything. My favourites were the pancakes and the bao buns & that cake
 Food: ⭐️⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
+
+
+{{< remote-image-gallery key="shokupan" >}}

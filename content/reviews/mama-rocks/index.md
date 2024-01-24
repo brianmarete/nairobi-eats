@@ -39,3 +39,6 @@ Fun fact: Mama Rocks debut into the market resulted in my very first [Forbes Afr
 Food: ⭐️⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
+
+
+{{< remote-image-gallery key="mama-rocks" >}}

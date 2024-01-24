@@ -30,3 +30,6 @@ This cafe would be a perfect working spot for me if I lived closer to their loca
 Food/Coffee: ⭐️⭐️⭐️⭐️<br>
 Service:⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
+
+
+{{< remote-image-gallery key="spring-valley-cafe" >}}

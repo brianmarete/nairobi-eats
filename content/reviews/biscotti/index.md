@@ -46,3 +46,5 @@ So Biscotti is clearly good for its food, but their cakes/pastries… not so muc
 Food: ⭐️⭐️⭐️<br>
 Service: ⭐️⭐️.5<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="biscotti" >}}
