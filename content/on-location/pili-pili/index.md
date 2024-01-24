@@ -1,6 +1,6 @@
 ---
 date: 2024-01-19T10:38:05+03:00
-title: "Pili Pili"
+title: "Pili Pili - Kigali"
 draft: false
 maps_query: "Pili+pili+Kigali"
 business_hours:

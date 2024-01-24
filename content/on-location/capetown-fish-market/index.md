@@ -1,6 +1,6 @@
 ---
 date: 2024-01-18T19:37:04+03:00
-title: "Capetown Fish Market"
+title: "Capetown Fish Market - Zanzibar"
 draft: false
 maps_query: "Cape+Town+Fish+Market+Zanzibar"
 business_hours:

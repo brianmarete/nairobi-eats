@@ -1,6 +1,6 @@
 ---
 date: 2024-01-19T10:50:21+03:00
-title: "Salty Squid"
+title: "Salty Squid - Diani"
 draft: false
 maps_query: "The+Salty+Squid+Beach+Bar+%26+Restaurant"
 business_hours:

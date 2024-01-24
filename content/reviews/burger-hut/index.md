@@ -26,3 +26,5 @@ I like this place for the nostalgia it brings. It’s probably one of the reason
 Food: ⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="burger-hut" >}}

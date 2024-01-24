@@ -1,6 +1,6 @@
 ---
 date: 2024-01-19T10:43:05+03:00
-title: "Soy Asian Table"
+title: "Soy Asian Table - Kigali"
 draft: false
 maps_query: "Soy+Asian+Table+Kigali"
 business_hours:

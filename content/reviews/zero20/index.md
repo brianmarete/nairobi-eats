@@ -37,4 +37,4 @@ Food: ⭐️⭐️<br>
 Service: ⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
 
-
+{{< remote-image-gallery key="zero20" >}}
