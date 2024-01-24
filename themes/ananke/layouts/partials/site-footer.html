@@ -3,6 +3,6 @@
   <a class="f6 fw4 hover-white no-underline white-70 dib-ns pv2 ph3" href="{{ .Site.Home.RelPermalink }}" >
     &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
   </a>
-    <div>{{ partial "social-follow.html" . }}</div>
+    <div>{{ partial "social-follow-footer.html" . }}</div>
   </div>
 </footer>

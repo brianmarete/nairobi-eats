@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "About NairobiEats"
-font_style: "i"
 ---
 
 Hey there!
@@ -12,7 +11,7 @@ Through this blog, I'm excited to share my thoughts and experiences exploring th
 
 Happy Eating!
 <!-- TODO: find a better way to do this -->
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 {{% text-size size="f7" %}}
 Feature Image courtesy of [Peter Ndungu](https://www.behance.net/gallery/21579019/Urban-Nairobi-Nightscape/modules/144473841)
 {{% /text-size %}}

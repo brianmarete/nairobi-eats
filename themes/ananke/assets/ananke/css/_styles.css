@@ -18,3 +18,8 @@
 .nested-links a{
   overflow-wrap: break-word;
 }
+
+.hero {
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
