@@ -1,1 +1,12 @@
 {{/* For Users's overwrite */}}
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const navMobileElement = document.querySelector('.navMobile');
+    const navMenuElement = document.querySelector('.navMenu');
+
+    navMobileElement.addEventListener('click', function () {
+      console.log("click");
+      navMenuElement.classList.toggle('active');
+    });
+  });
+</script>

@@ -23,3 +23,57 @@
   display: grid;
   grid-template-rows: auto 1fr;
 }
+
+.navMobile {
+  display: none;
+}
+
+.navMenu a:visited {
+  color: white;
+}
+
+@media screen and (max-width: 768px) {
+  .navMobileWrapper {
+    position: relative;
+  }
+
+  .navMenu ul {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
+
+  .navMenu li {
+    display: block !important;
+  }
+
+  .navMobile {
+    display: block;
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-align: right;
+  }
+
+  .navMenu a:visited {
+    color: #111;
+  }
+
+  .navMenu {
+    display: none;
+    text-align: right;
+    background-color: whitesmoke;
+    position: absolute;
+    color: #111;
+    top: 2rem;
+    right: 0.5rem;
+    box-shadow: 0 0 6px 0 rgba(0,0,0,0.1);
+  }
+
+  .navMenu.active {
+    display: block;
+  }
+
+  .navMenu li {
+    padding: 0.3rem 0;
+  }
+}
