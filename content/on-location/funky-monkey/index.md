@@ -33,3 +33,5 @@ If you’re in Diani and looking for a nice chill place to hangout with good foo
 Food: ⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="funky-monkey" >}}

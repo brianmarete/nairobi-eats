@@ -30,3 +30,5 @@ P.S: All prices stated in the menu are in Rwandan Francs.
 Food:⭐️⭐️⭐️⭐️<br>
 Service:⭐️⭐️⭐️⭐️<br>
 Ambience:⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="soy-asian-table" >}}

@@ -28,3 +28,5 @@ It’s a nice place for lunch & dinner, very vibrant, nice ambience, nice place 
 Food:⭐️⭐️⭐️⭐️<br>
 Service:⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="capetown-fish-market" >}}

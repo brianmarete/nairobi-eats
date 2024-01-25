@@ -27,3 +27,5 @@ I enjoyed the ambience of this place so much though. So chill, so vibey, perfect
 Food: ⭐️⭐️<br>
 Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="pili-pili" >}}

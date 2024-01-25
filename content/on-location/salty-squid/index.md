@@ -30,3 +30,5 @@ Salty Squid being right by the beach makes it perfect for good food and some fun
 Food: ⭐️⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="salty-squid" >}}
