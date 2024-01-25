@@ -5,7 +5,7 @@
     </a>
     <div class="flex flex-column">
     <button class="navMobile"><img src="/images/menu-4-16.png" alt=""></button>
-    <div class="navMenu flex flex-column flex-row-ns items-center ">
+    <div class="navMenu flex flex-column flex-row-ns items-center z-999 ">
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0-ns ml3-ns" "pl0-ns mr3-ns" }} ph2 mt0 mt1-ns">
