@@ -1,6 +1,8 @@
 post_content_classes: avenir next
 site_logo: "image/NairobiEats-Logo-White.png"
 description: "Welcome to Nairobi Eats, your one-stop shop for restaurant reviews within Nairobi and beyond!"
+images:
+  - "image/NairobiEats-Logo-Black-rectangle.png"
 custom_css:
   - lightbox.css
 ananke_socials:
