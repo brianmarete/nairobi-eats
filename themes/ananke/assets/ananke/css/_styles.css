@@ -28,6 +28,7 @@
   display: none;
 }
 
+.navMenu a,
 .navMenu a:visited {
   color: white;
 }
@@ -54,6 +55,7 @@
     text-align: right;
   }
 
+  .navMenu a,
   .navMenu a:visited {
     color: #111;
   }
