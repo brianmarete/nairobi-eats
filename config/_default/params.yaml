@@ -1,10 +1,13 @@
 post_content_classes: avenir next
 site_logo: "image/NairobiEats-Logo-White.png"
+title: "NairobiEats"
 description: "Welcome to Nairobi Eats, your one-stop shop for restaurant reviews within Nairobi and beyond!"
 images:
   - "image/NairobiEats-Logo-Black-rectangle.png"
 custom_css:
   - lightbox.css
+social:
+  twitter: https://twitter.com/_brianmarete/status/1631598293414457344
 ananke_socials:
   - name: twitter
     url: https://twitter.com/_brianmarete/status/1631598293414457344
