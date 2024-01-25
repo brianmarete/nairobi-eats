@@ -1,12 +1,12 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-  <header class=" cover bg-top vh-50 vh-75-ns" style="background-image: url('{{ $featured_image }}');">
-    <div class="h-100 hero {{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
+  <header class="cover bg-top vh-50 vh-75-ns" style="background-image: url('{{ $featured_image }}');">
+    <div class="h-100 {{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
       {{ partial "site-navigation.html" .}}
-      <div class="flex justify-center items-center">
+      <div class="logo-parent h-75">
         {{ with .Site.Params.site_logo }}
-          <img src="{{ relURL . }}" class="w100 mw6-l mw6-m mw5 mb5" alt="{{ $.Site.Title }}" />
+          <img src="{{ relURL . }}" class="logo w100 mw6-l mw6-m mw5 mb5" alt="{{ $.Site.Title }}" />
         {{ else }}
         <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
           {{ .Title | default .Site.Title }}

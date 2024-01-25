@@ -6,24 +6,27 @@
 
 .lh-copy blockquote {
   display: block;
-  font-size: .875em;
+  font-size: 0.875em;
   margin-left: 2rem;
   margin-top: 2rem;
   margin-bottom: 2rem;
   border-left: 4px solid #ccc;
   padding-left: 1rem;
-
 }
 
-.nested-links a{
+.nested-links a {
   overflow-wrap: break-word;
 }
 
-.hero {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-rows: auto 1fr;
-  grid-template-rows: auto 1fr;
+.logo-parent {
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .navMobile {
@@ -64,13 +67,13 @@
 
   .navMenu {
     display: none;
+    position: absolute;
     text-align: right;
     background-color: whitesmoke;
-    position: absolute;
     color: #111;
     top: 2rem;
     right: 0.5rem;
-    box-shadow: 0 0 6px 0 rgba(0,0,0,0.1);
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.1);
     border-radius: 2px;
   }
 
