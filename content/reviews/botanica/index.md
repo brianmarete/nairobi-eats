@@ -1,7 +1,7 @@
 ---
 date: 2024-01-26T09:04:47+03:00
 title: "Botanica Kitchen & Gin Bar"
-draft: true
+draft: false
 maps_query: "Botanica+-+Kitchen+and+Gin+Bar+Nairobi"
 business_hours:
   - "Mon - Sun: 9am - 10pm"
@@ -24,3 +24,5 @@ They did up our table for my girl’s birthday so well people thought there was 
 Food:⭐️⭐️⭐️⭐️<br>
 Service:⭐️⭐️⭐️⭐️<br>
 Ambience:⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="botanica" >}}

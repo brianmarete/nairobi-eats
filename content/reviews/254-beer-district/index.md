@@ -1,7 +1,7 @@
 ---
 date: 2024-01-25T21:44:14+03:00
 title: "254 Beer District"
-draft: true
+draft: false
 maps_query: "254+Beer+District"
 business_hours:
   - "Mon: Closed"
@@ -31,3 +31,5 @@ We were here for one of the [Nakili Sessions](https://twitter.com/nakili_session
 Food: ⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="254-beer-district" >}}

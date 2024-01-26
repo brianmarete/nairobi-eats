@@ -1,7 +1,7 @@
 ---
 date: 2024-01-25T22:43:48+03:00
 title: "Beit é Selam"
-draft: true
+draft: false
 maps_query: "beit+é+selam+-+ቤተ+ሰላም"
 business_hours:
   - "Mon - Wed: 12pm - 11pm"
@@ -30,3 +30,5 @@ Also - don’t drive there, there is barely any parking.
 Food:⭐️⭐️⭐️⭐️⭐️<br>
 Service:⭐️⭐️.5<br>
 Ambience:⭐️⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="beit-e-selam" >}}

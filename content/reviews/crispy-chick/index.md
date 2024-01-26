@@ -1,7 +1,7 @@
 ---
 date: 2024-01-25T21:32:23+03:00
 title: "Crispy Chick"
-draft: true
+draft: false
 maps_query: ""
 business_hours:
   - "Mon - Sun: 10am - 9pm"
@@ -37,3 +37,5 @@ So far Ayeyo has been a delight, Crispy Chick is doing well too, excited to see 
 
 Food: ⭐️⭐️⭐️.5<br>
 Service: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="crispy-chick" >}}

@@ -1,7 +1,7 @@
 ---
 date: 2024-01-25T21:24:45+03:00
 title: "Kahvalti Cafè"
-draft: true
+draft: false
 maps_query: "Kahvalti+Café+(Lenana+Rd)"
 business_hours:
   - "Mon - Sun: 7am - 10pm"
@@ -36,3 +36,5 @@ Overall for a place that I see being sang about on IG, this wasn’t the experie
 Food: ⭐️.5<br>
 Service: ⭐️<br>
 Ambience: ⭐️⭐️<br>
+
+{{< remote-image-gallery key="kahvalti" >}}

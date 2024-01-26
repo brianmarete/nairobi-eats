@@ -1,7 +1,7 @@
 ---
 date: 2024-01-26T09:01:14+03:00
 title: "Fifteen Rooftop"
-draft: true
+draft: false
 maps_query: "Fifteen+Rooftop+Nairobi"
 business_hours:
   - "Mon: Closed"
@@ -25,3 +25,5 @@ My experiences here have always been great, the sunset views of the park are stu
 Food:⭐️⭐️⭐️⭐️<br>
 Service:⭐️⭐️⭐️⭐️<br>
 Ambience:⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="15-rooftop" >}}

@@ -1,14 +1,14 @@
 ---
 date: 2024-01-25T21:58:33+03:00
 title: "Chekafe"
-draft: true
+draft: false
 maps_query: "CHEKAFE+-+Japanese+Restaurant+Nairobi"
 business_hours:
   - "Mon - Sun: 10am - 10pm"
 series: []
-tags:
-  - "Japanese"
-  - "Asian"
+# tags:
+#   - "Japanese"
+#   - "Asian"
 ---
 
 This is one of my favourite Japanese restaurants because they have the best Ramen. I only eat two things when I’m here - The Pork Ramen and the pork dumplings. A hot bowl of ramen is so perfect for the cold seasons and even the warmer seasons too.
@@ -22,3 +22,5 @@ They also have sushi, and bento boxes plus many other options on their menu - I 
 Food: ⭐️⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="chekafe" >}}
