@@ -1,13 +1,13 @@
 main:
   - identifier: about
     name: About
-    url: /about
+    pageRef: /about
     weight: 100
   - identifier: reviews
     name: Reviews
-    url: /reviews
+    pageRef: /reviews
     weight: 200
   - identifier: on-location
     name: "#OnLocation"
-    url: /on-location
+    pageRef: /on-location
     weight: 300

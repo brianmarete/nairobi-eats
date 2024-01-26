@@ -2,7 +2,7 @@
 date: 2023-12-18T10:23:04.000Z
 title: Small Heavens Cakes
 draft: false
-maps_query: ""
+maps_query: "Small+Heaven+Cakes+Githurai"
 business_hours:
   - "Mon - Fri: 8:30am - 5pm"
   - "Sat: 8:30am - 4pm"
