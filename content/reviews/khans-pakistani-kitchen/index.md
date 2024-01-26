@@ -1,7 +1,7 @@
 ---
 date: 2024-01-26T09:10:02+03:00
 title: "Khan's Pakistani Kitchen"
-draft: true
+draft: false
 maps_query: "Khan's+-+Pakistani+Kitchen"
 business_hours:
   - "Mon - Sun: 10am - 9pm"
@@ -22,3 +22,5 @@ The biryani is quite spicy (even the mild versions) for those who can’t handle
 
 Food: ⭐️⭐️⭐️⭐️<br>
 Service:⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="khans-pakistani-kitchen" >}}

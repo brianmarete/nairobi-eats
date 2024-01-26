@@ -1,7 +1,7 @@
 ---
-date: 2024-01-26T09:28:01+03:00
+date: 2024-01-26T09:25:20+03:00
 title: "Little Italy"
-draft: true
+draft: false
 maps_query: "Little+Italy+nairobi"
 business_hours:
   - "Mon - Sun: 10am - 9pm"
@@ -31,3 +31,5 @@ I finally got to try their lasagne recently - Mother’s Lasagne and let me tell
 
 Food: ⭐️⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="little-italy" >}}

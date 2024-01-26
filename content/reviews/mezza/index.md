@@ -1,7 +1,7 @@
 ---
-date: 2024-01-26T09:28:34+03:00
+date: 2024-01-26T09:28:15+03:00
 title: "Mezza"
-draft: true
+draft: false
 maps_query: "Mezza+Kilimani"
 business_hours:
   - "Mon - Sun: 8am - 11pm"
@@ -23,3 +23,5 @@ We also tried the hummus and pita bread - can never go wrong with this combo, th
 
 Food: ⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="mezza" >}}

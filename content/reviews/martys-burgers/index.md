@@ -1,7 +1,7 @@
 ---
-date: 2024-01-26T09:28:15+03:00
+date: 2024-01-26T09:28:01+03:00
 title: "Marty's Burgers"
-draft: true
+draft: false
 maps_query: ""
 business_hours:
   - "Mon - Sun: 10am - 9pm"
@@ -22,3 +22,5 @@ The Hot Chik’n burger was amazing! It’s a breaded chicken breast, topped wit
 
 Food: ⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="martys" >}}

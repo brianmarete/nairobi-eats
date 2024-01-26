@@ -1,7 +1,7 @@
 ---
 date: 2024-01-25T22:30:41+03:00
 title: "The Laughing Buddha"
-draft: true
+draft: false
 maps_query: "The+Laughing+Buddha+at+Kenrail"
 business_hours:
   - "Mon: Closed"
@@ -23,3 +23,5 @@ The fries were perfect and the buns were also really good, spicy and filling! Th
 Food:⭐️⭐️⭐️<br>
 Service:⭐️⭐️⭐️<br>
 Ambience:⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="laughing-buddha" >}}

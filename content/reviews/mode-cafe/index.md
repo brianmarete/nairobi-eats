@@ -1,7 +1,7 @@
 ---
-date: 2024-01-26T09:29:35+03:00
-title: "Mode Cafe"
-draft: true
+date: 2024-01-26T09:28:30+03:00
+title: "Mode Café"
+draft: false
 maps_query: "Mode+Cafe+Nairobi"
 business_hours:
   - "Mon - Thurs: 8am - 10pm"
@@ -32,3 +32,5 @@ The place gets quite busy so if you’re a big group, I’d suggest making a res
 Food: ⭐️⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="mode-cafe" >}}

@@ -1,7 +1,7 @@
 ---
 date: 2024-01-25T22:01:36+03:00
 title: "Mawimbi Seafood Restaurant "
-draft: true
+draft: false
 maps_query: "Mawimbi+Seafood+Restaurant+%26+Cafè"
 business_hours:
   - "Mon - Sun: 6am - 11pm"
@@ -29,3 +29,5 @@ I’m not a seafood person so I didn’t try the sushi etc. Maybe that’s bette
 Food:⭐️⭐️<br>
 Service:⭐️⭐️⭐️⭐️<br>
 Ambience:⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="mawimbi" >}}

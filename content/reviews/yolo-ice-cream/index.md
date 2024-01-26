@@ -1,7 +1,7 @@
 ---
-date: 2024-01-26T09:28:52+03:00
+date: 2024-01-26T09:28:40+03:00
 title: "Yolo Ice Cream"
-draft: true
+draft: false
 maps_query: "Yolo+Ice+Cream+Nairobi"
 business_hours:
   - "Mon: 9:30am - 9:15pm"
@@ -31,3 +31,5 @@ Overall this wasn’t the ice cream parlour I thought it would be… so definite
 Food: ⭐️⭐️<br>
 Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️<br>
+
+{{< remote-image-gallery key="yolo-ice-cream" >}}
