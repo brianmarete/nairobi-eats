@@ -19,7 +19,7 @@ Fonda makes the best tacos in Nairobi in my honest opinion, they have authentic 
 
 The pork taco was also really good, salted well and filling. The quesadillas look small but they pack a mighty punch. That pork and cheese combo is gonna slap every time😋
 
-I’ve never been an enchilada fan, I think the soupy-ness is a bit much for me. But the few I’ve tried from [Pablo’s]({{< ref "/pablos">}}) and now Fonda are making me a new convert. They’re so tasty! So much flavour particularly from the two gravies on either side of the plate and having 3 at once will for sure have you full for a long long while.
+I’ve never been an enchilada fan, I think the soupy-ness is a bit much for me. But the few I’ve tried from [Pablo’s]({{< relref "/pablos">}}) and now Fonda are making me a new convert. They’re so tasty! So much flavour particularly from the two gravies on either side of the plate and having 3 at once will for sure have you full for a long long while.
 
 I’ve had a lot of Mexican food in my life thanks to a lot of travelling and of course the best Mexican food I’ve had has been from actual Mexico. That being said - Fonda is the one restaurant in Nairobi that serves the most authentic Mexican food outside of Mexico, and I say that having tried most of the other variations of Mexican restaurants here.
 
