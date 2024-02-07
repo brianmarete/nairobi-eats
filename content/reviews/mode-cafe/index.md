@@ -13,7 +13,7 @@ tags:
 
 This is one of my favourite places to go to for brunch! They went really simple on decor: minimalist, muted tones and an open plan space which makes it seem bigger than it is, there’s some outside seating but majority is indoors.
 
-The menu is quite limited, which may concern some but for what they offer I think the menu fits. We had some coffees, the Chicken and Waffle (KSH950/), Shakshuka (KSH1200/), Apple Crumble French toast (KSH900/) and Prawn tempura (KSH1300/).
+The menu is quite limited, which may concern some but for what they offer I think the menu fits. We had some coffees, the  Chicken and Waffle (KSH1,200/), Shakshuka (KSH1,200/), Apple Crumble French toast (KSH1,100/)  and Prawn tempura (KSH1300/).
 
 The chicken & waffle comes with scrambled eggs on top, I don’t eat eggs so had that substituted with mushrooms. I enjoyed this a lot mostly because of the combination of flavours (sweet + savoury is always my jam), the fried chicken was delicious! That chicken combined with the waffle, sautéed mushrooms, some raspberry and blueberries, whatever berry sauce was on the plate, & maple syrup… yum!
 
