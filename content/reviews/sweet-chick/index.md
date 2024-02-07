@@ -3,6 +3,7 @@ date: 2024-01-25T12:31:04+03:00
 title: "Sweet Chick - New York"
 draft: false
 maps_query: "Sweet+Chick+brooklyn"
+series: ["on-location"]
 business_hours:
   - "Sun - Wed: 11am - 10pm"
   - "Thur: 11am - 11pm"

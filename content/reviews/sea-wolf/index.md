@@ -3,6 +3,7 @@ date: 2024-01-25T12:31:21+03:00
 title: "Sea Wolf - New York"
 draft: false
 maps_query: "sea+wolf+brooklyn"
+series: ["on-location"]
 business_hours:
   - "Mon: 1pm - 11pm"
   - "Tue - Sun: 12pm - 11pm"

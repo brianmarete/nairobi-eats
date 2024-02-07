@@ -5,8 +5,7 @@ draft: false
 maps_query: "Soy+Asian+Table+Kigali"
 business_hours:
   - "Mon - Sun: 11am - 11pm"
-series:
-  - "Kigali"
+series: ["on-location"]
 tags:
   - "Kigali"
   - "Asian"

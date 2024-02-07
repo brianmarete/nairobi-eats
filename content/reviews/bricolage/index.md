@@ -3,6 +3,7 @@ date: 2024-01-25T12:30:43+03:00
 title: "Bricolage - New York"
 draft: false
 maps_query: "Bricolage+brooklyn+new+york"
+series: ["on-location"]
 business_hours:
   - "Mon - Thurs: 12pm - 3:30pm"
   - "Mon - Thurs: 5:30pm - 9:45pm"

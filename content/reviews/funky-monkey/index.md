@@ -3,6 +3,7 @@ date: 2024-01-19T10:45:16+03:00
 title: "Funky Monkey - Diani"
 draft: false
 maps_query: "Funky+Monkey+Cocktail+Bar+%26+Restaurant+Diani"
+series: ["on-location"]
 business_hours:
   - "Sun - Thurs: 7:30am - 11pm"
   - "Fri - Sat: 7:30am - 12am"

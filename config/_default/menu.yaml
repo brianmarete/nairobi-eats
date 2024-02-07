@@ -9,5 +9,5 @@ main:
     weight: 200
   - identifier: on-location
     name: "#OnLocation"
-    pageRef: /on-location
+    pageRef: /series/on-location
     weight: 300
