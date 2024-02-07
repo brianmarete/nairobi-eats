@@ -19,7 +19,7 @@ For starters we had popcorn shrimp tempura and pork gyoza. The shrimp was so goo
 
 We also tried the meso firecracker which is a chicken stir fry with various veggies in a spicy sauce served with rice. We were told it was super hot - but it wasn’t, it was mild at best. So let’s talk about the tea smoked lamb chops… they’re beautifully presented with some kind of mash eggplant underneath it that was quite tasty. My problem with lamb chops is that there’s never enough meat on them - it feels like more bone than meat so for me it was good but not worth the price.
 
-The Ramen is not as great as my fave from [Cheka]({{< ref "/chekafe">}}) but it was still full of flavour and filling. They also have a buy 1 get 2 free happy hour every day for the cocktail lovers out here:) We had no room for dessert this time, but I’d love to try their crème brûlée if I ever go back there. Service was great, and quick too, the ambience was really chill and cute, very fine dining vibes, cosy enough for date nights & vibrant enough for group dinners.
+The Ramen is not as great as my fave from [Cheka]({{< relref "/chekafe">}}) but it was still full of flavour and filling. They also have a buy 1 get 2 free happy hour every day for the cocktail lovers out here:) We had no room for dessert this time, but I’d love to try their crème brûlée if I ever go back there. Service was great, and quick too, the ambience was really chill and cute, very fine dining vibes, cosy enough for date nights & vibrant enough for group dinners.
 
 ### Ratings
 

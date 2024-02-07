@@ -9,7 +9,7 @@ business_hours:
 
 There’s so many eateries popping up every other week, it’s so hard to keep up with all of them. One place though that’s only been in business for just a few months is already making a mark in the industry - a super crispy mark at that.
 
-Crispy Chick is a cloud kitchen that’s serving some very delectable fried chicken😋 Who doesn’t like fried chicken? Add different flavour varieties and I’m inside that story kabisa! Funfact - Crispy Chick is under the same brand as the [Ayeyo]({{< ref "/ayeyo">}}) restaurant.
+Crispy Chick is a cloud kitchen that’s serving some very delectable fried chicken😋 Who doesn’t like fried chicken? Add different flavour varieties and I’m inside that story kabisa! Funfact - Crispy Chick is under the same brand as the [Ayeyo]({{< relref "/ayeyo">}}) restaurant.
 
 I attended the colourful launch of Crispy Chick back in October of last year and we had our fair share of fried chicken, chicken wings, chicken burgers, well crafted cocktails and of course freshly made fries. We were introduced to the brand and given a taste of what was coming into the market.
 
