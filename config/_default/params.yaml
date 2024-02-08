@@ -16,3 +16,10 @@ ananke_socials:
   - name: instagram
     url: https://www.instagram.com/nairobi.eats/
     label: Instagram
+search:
+  filter_taxonomies: false
+  filter_years: false
+  threshold: 0.4
+  index_content: true
+  max_results: 10
+  min_match_char_length: 2
