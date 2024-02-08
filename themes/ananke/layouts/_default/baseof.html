@@ -48,6 +48,7 @@
       {{ block "main" . }}{{ end }}
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
-    {{ partial "site-scripts.html" . }}
+    {{ partialCached "site-scripts.html" . }}
+    {{ partialCached "search/assets/js" . }}
   </body>
 </html>
