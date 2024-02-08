@@ -1,7 +1,7 @@
 ---
 date: 2024-01-26T09:28:20+03:00
 title: "Super Wings"
-draft: true
+draft: false
 maps_query: ""
 business_hours:
   - "Mon - Sun: 10am - 9pm"
@@ -27,3 +27,5 @@ If you notice from the pictures below there’s always a new flavour + the lemon
 
 Food: ⭐️⭐️⭐️.5<br>
 Service: ⭐️⭐️⭐️⭐️<br>
+
+{{< remote-image-gallery key="super-wings" >}}
