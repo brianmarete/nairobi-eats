@@ -3,12 +3,15 @@
     <a href="{{ .Site.Home.RelPermalink }}" class="f5 fw2 hover-white no-underline white-90 dib">
         {{ .Site.Title }}
     </a>
-    <div class="flex flex-column">
+    <div class="flex items-center">
+    <button class="search-modal-toggle bn pa0 mr3 bg-transparent search-button-mobile">
+      <img src="/images/search.svg" alt="Search">
+    </button>
     <button class="navMobile"><img src="/images/menu-4-16.png" alt=""></button>
     <div class="navMenu flex flex-column flex-row-ns items-center z-999 ">
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
-        <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0-ns ml3-ns" "pl0-ns mr3-ns" }} ph2 mt0 mt1-ns">
+        <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0-ns ml3-ns" "pl0-ns" }} ph2 ma0">
           {{ range .Site.Menus.main }}
           <li class="list f6 f5-ns fw4 dib-ns mv2 mv0-ns {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
             <a class="link dim light-gray-ns hover-white no-underline" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
@@ -16,15 +19,13 @@
             </a>
           </li>
           {{ end }}
-          <li class="list f6 f5-ns fw4 dib-ns mv2 mv0-ns">
-            <span class="search-modal-toggle dim white hover-white pointer">
-              Search
-            </span>
-          </li>
         </ul>
       {{ end }}
-      {{ partialCached "social-follow-header.html" . }}
     </div>
+    <button class="search-modal-toggle bn pa0 mr3 bg-transparent search-button">
+      <img src="/images/search.svg" alt="Search">
+    </button>
+    {{ partialCached "social-follow-header.html" . }}
   </div>
   </div>
 </nav>
