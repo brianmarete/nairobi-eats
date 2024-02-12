@@ -1,6 +1,6 @@
 module github.com/brianmarete/nairobi-eats
 
-go 1.22.0
+go 1.22
 
 require (
 	github.com/hugomods/icons v0.6.1 // indirect
