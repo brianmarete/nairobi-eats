@@ -1,5 +1,5 @@
 ---
-date: 2023-12-18T09:57:40.000Z
+date: 2024-02-15T08:08:00+03:00
 title: "Crafty Chameleon"
 draft: false
 maps_query: Crafty+Chameleon+Brewhouse+and+Restaurant,Nairobi+Kenya

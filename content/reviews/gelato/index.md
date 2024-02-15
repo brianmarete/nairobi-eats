@@ -1,6 +1,6 @@
 ---
-date: 2024-02-15T08:08:30+03:00
-title: "Gelato"
+date: 2024-02-15T08:08:39+03:00
+title: "Gelato Street"
 draft: false
 maps_query: "GELATO+STREET+lower+kabete+Nairobi"
 business_hours:
@@ -32,3 +32,5 @@ Service: ⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
 
 {{< remote-image-gallery key="gelato" >}}
+
+2024-02-15T08:08:39+03:00
