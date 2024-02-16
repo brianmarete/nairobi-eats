@@ -8,7 +8,7 @@ business_hours:
   - "Wed - Thurs: 1pm - 9pm"
   - "Fri - Sun: 1pm - 10pm"
 series: []
-tags: []
+# tags: ["Ice Cream"]
 ---
 
 I came across this sweet find late last year and I’ve been obsessed ever since!
@@ -32,5 +32,3 @@ Service: ⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
 
 {{< remote-image-gallery key="gelato" >}}
-
-2024-02-15T08:08:39+03:00
