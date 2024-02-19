@@ -1,8 +1,8 @@
 ---
 date: 2024-02-16T15:13:04+03:00
 title: "Golden Stool Kitchen & Bar"
-draft: true
-maps_query: ""
+draft: false
+maps_query: "The+Golden+Stool+Kitchen+and+Bar,+Nairobi"
 business_hours:
   - "Mon - Sun: 10am - 11pm"
 series: []
@@ -25,3 +25,4 @@ Food: ⭐️⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
 
+{{<remote-image-gallery key="golden-stool">}}

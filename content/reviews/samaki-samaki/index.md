@@ -1,8 +1,8 @@
 ---
 date: 2024-02-16T15:12:49+03:00
 title: "Samaki Samaki Seafood & Jazz"
-draft: true
-maps_query: ""
+draft: false
+maps_query: "Samaki+Samaki+Seafood+and+Jazz,+Nairobi+Kenya"
 business_hours:
   - "Mon - Sun: 7am - 5am"
 series: []
@@ -24,3 +24,5 @@ I must say that I really enjoyed the food though, when it eventually got to us l
 Food: ⭐️⭐️⭐️⭐️<br>
 Service: ⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
+
+{{<remote-image-gallery key="samaki-samaki">}}

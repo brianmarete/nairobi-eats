@@ -1,8 +1,8 @@
 ---
 date: 2024-02-16T15:13:33+03:00
 title: "Nairobi Street Kitchen"
-draft: true
-maps_query: ""
+draft: false
+maps_query: "Nairobi+Street+Kitchen,Nairobi+Kenya"
 business_hours:
   - "Mon: Closed"
   - "Tue - Wed: 8am - 11pm"
@@ -27,3 +27,5 @@ I personally didn’t mind the place, the art lover in me really loved the inter
 Food: ⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
+
+{{<remote-image-gallery key="nairobi-street-kitchen">}}

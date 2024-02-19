@@ -1,8 +1,8 @@
 ---
 date: 2024-02-16T15:12:37+03:00
 title: "Red Ginger"
-draft: true
-maps_query: ""
+draft: false
+maps_query: "Red+Ginger+Nairobi"
 business_hours:
   - "Mon - Sun: 11am - 11pm"
 series: []
@@ -27,3 +27,4 @@ Food: ⭐️⭐️<br>
 Service: ⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
 
+{{<remote-image-gallery key="red-ginger">}}

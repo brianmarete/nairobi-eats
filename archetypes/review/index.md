@@ -6,7 +6,12 @@ maps_query: ""
 business_hours:
   - ""
 series: []
-tags: []
+tags: [nairobieats]
 ---
 
 Here goes the main content.
+
+### Ratings
+
+
+{{<remote-image-gallery key="">}}

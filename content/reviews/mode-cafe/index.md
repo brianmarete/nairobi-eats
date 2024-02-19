@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Thurs: 8am - 10pm"
   - "Fri - Sun: 8am - 11pm"
 series: []
-tags: [nairobieats, Brunch, Nairobi Cafe]
+tags: [nairobieats, Coffee Shop, Brunch, Nairobi Cafe, Kilimani]
 ---
 
 This is one of my favourite places to go to for brunch! They went really simple on decor: minimalist, muted tones and an open plan space which makes it seem bigger than it is, there’s some outside seating but majority is indoors.

@@ -1,8 +1,8 @@
 ---
 date: 2024-02-16T15:13:16+03:00
 title: "Unseen Nairobi"
-draft: true
-maps_query: ""
+draft: false
+maps_query: "Unseen+Nairobi"
 business_hours:
   - "Mon - Sun: 10am - 11pm"
 series: []
@@ -21,3 +21,4 @@ Food: ⭐️⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
 
+{{<remote-image-gallery key="unseen-nairobi">}}
