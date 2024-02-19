@@ -5,6 +5,7 @@ draft: false
 maps_query: Pablos+Mexobar,+Nairobi,+Kenya
 business_hours:
   - "Mon - Sun: 11am - 11pm"
+tags: ["nairobieats", "Mexican Food", "Boardwalk Mall", "Parklands"]
 ---
 
 I heard about this place from a few people and never got a chance to visit until just recently. I never even knew the boardwalk mall existed until the day I went there😅

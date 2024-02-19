@@ -5,6 +5,7 @@ draft: false
 maps_query: "Classique+burger+house+Nairobi"
 business_hours:
   - "Mon - Sun: 8am - 10pm"
+tags: ["nairobieats", "Burgers", "Nairobi West"]
 ---
 
 I’ve never actually visited this place but I’ve ordered from them plenty of times. If you’re looking for a place with simple yet great burgers, this is it.

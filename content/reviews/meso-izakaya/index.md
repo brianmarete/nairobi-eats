@@ -7,10 +7,7 @@ business_hours:
   - "Mon - Wed: 12pm - 10pm"
   - "Thurs - Sun: 12pm - 11pm"
 series: []
-# tags:
-#   - "Japanese"
-#   - "Asian"
-#   - "Fine dining"
+tags: [nairobieats, Asian Food, Nairobi Ramen, Westgate Mall, Westlands]
 ---
 
 Meso is a fine dining Japanese restaurant located in the Westgate Mall, Westlands. Reservations are not needed but if you’re going as a group-that would be recommended. Prices are on the higher side as well so plan accordingly.

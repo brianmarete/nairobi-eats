@@ -10,7 +10,7 @@ business_hours:
   - "Sat: 12pm - 1am"
   - "Sun: 12pm - 8pm"
 series: []
-tags: []
+tags: [nairobieats]
 ---
 
 I’ve been to Hero a couple of times between last year & this year & always had a fantastic time there. The food was great, the service was on point and the place just has great vibes! I had prawn tempura (quite large ones) which I felt had way too much batter tempura wise but all in all a good fleshy prawn on the inside.

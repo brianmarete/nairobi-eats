@@ -7,8 +7,7 @@ business_hours:
   - "Mon - Sun: 10am - 9pm"
 series:
   - "Ando Foods"
-# tags:
-#   - "Italian"
+tags: [nairobieats, Cloud Kitchen, Ando Foods]
 ---
 
 I’ve been eating so much Pasta from Little Italy in the past two years so this review may sound all over the place but just know it’s all because I love majority of their dishes. Little Italy is yet another brainchild from Ando Foods. My favourite item from their menu is the Tagliatelle Mushroom pasta which is quite a big portion for one person. I always add grilled chicken to my order and some garlic bread which is insanely good!

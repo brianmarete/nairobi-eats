@@ -6,6 +6,7 @@ business_hours:
 date: 2023-11-23T10:13:29.000Z
 cover_dimming_class: bg-black-40
 draft: false
+tags: [ "nairobieats", "Maboneng", "Wings", "Karen"]
 ---
 
 Maboneng Wings and Whisky is located at Ntashart Plaza, Kilimani which also has a Sno Cream parlour for those of you who are lucky enough to not be lactose intolerant & can handle their yummy ice-cream.

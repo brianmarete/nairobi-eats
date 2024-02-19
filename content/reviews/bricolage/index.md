@@ -13,6 +13,7 @@ business_hours:
   - "Sat:  5pm - 10pm"
   - "Sun: 11am - 3:30pm"
   - "Sun: 5pm - 9:30pm"
+tags: [nairobieats, nyeats, New York]
 ---
 
 New York is a foodie’s haven and I love trying out so many new restaurants whenever I’m there. During my last visit I went to a couple and this was the first one I documented. I went to dinner here with my cousin who lives in Brooklyn and swears by this place so I had to try it.

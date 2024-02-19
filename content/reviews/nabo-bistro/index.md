@@ -7,6 +7,7 @@ business_hours:
   - "Mon: Closed"
   - "Tue - Fri: 8am - 9pm"
   - "Sat - Sun: 10am - 9pm"
+tags: ["nairobieats", "Nabo Bistro", "Burgers", "Lavington"]
 ---
 
 Nabo Bistro is a place I don’t visit often but only because I’m not usually on that side of town often. If I was… I’d really be a regular. Tucked in a nice little corner of Lavington, Nabo Bistro is a restaurant that isn’t particular to a type of cuisine - they have everything from burgers, pasta, tacos, steak, sandwiches and breakfast too.

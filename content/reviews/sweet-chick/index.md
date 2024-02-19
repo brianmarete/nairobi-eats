@@ -7,7 +7,8 @@ series: ["on-location"]
 business_hours:
   - "Sun - Wed: 11am - 10pm"
   - "Thur: 11am - 11pm"
-  - "Fri - Sat: 10am - 12am "
+  - "Fri - Sat: 10am - 12am"
+tags: [nairobieats, nyeats, New York]
 ---
 
 So I’m probably gonna sound biased but I truly feel like this is one of the best places for a good rich southern style brunch in New York. It’s one of my faves, and I always have to come here anytime I’m in this city and it never ever disappoints be it dine in or takeout👌🏾

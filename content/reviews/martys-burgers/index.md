@@ -7,9 +7,7 @@ business_hours:
   - "Mon - Sun: 10am - 9pm"
 series:
   - "Ando Foods"
-tags:
-  # - "Burgers"
-  # - "Cloud Kitchen"
+tags: [nairobieats, Cloud Kitchen, Ando Foods, Burgers]
 ---
 
 If there’s one thing Ando Foods guys get right every time other than their food, it’s the packaging. With this brand - they were going for a classic American diner look with the red+white, the branded buns & checkered wrapping paper - love it.

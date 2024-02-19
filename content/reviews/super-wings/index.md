@@ -7,9 +7,7 @@ business_hours:
   - "Mon - Sun: 10am - 9pm"
 series:
   - "Ando Foods"
-# tags:
-#   - "Cloud Kitchen"
-#   - "Wings"
+tags: [nairobieats, Cloud Kitchen, Ando Foods, Wings]
 ---
 
 This is yet another Ando Foods creation, and it is also delivery only. They focus on a variety of wings and I’m not a major wings person but since I’ve enjoyed Ando’s other brands, figured it won’t hurt to try. So far I’ve tried 4 out of their 8 wing flavours - Lemon pepper, Sticky Asian, Classic BBQ & Thai Chilli Mango.

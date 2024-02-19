@@ -1,0 +1,16 @@
+{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+<div class="relative mb4 nested-copy-line-height" style="width: 150px;">
+  <div class="mb3 pa2 gray overflow-hidden">
+    {{ if $featured_image }}
+    <a href="{{ .RelPermalink }}" class="link black dim">
+      <div
+        class="featured_image"
+        style='background: url("{{ $featured_image }}") center center / cover no-repeat; height: 100px;'
+      ></div>
+    </a>
+    {{ end }}
+    <h3 class="f5 near-black">
+      <a href="{{ .RelPermalink }}" class="link black dim"> {{ .Title }} </a>
+    </h3>
+  </div>
+</div>

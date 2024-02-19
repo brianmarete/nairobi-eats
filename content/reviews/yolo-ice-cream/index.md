@@ -7,9 +7,7 @@ business_hours:
   - "Mon: 9:30am - 9:15pm"
   - "Tue - Sun: 9:30am - 8pm"
 series: []
-# tags:
-#   - "Ice Cream"
-#   - "CBD"
+tags: [nairobieats, "Ice Cream", "Nairobi CBD"]
 ---
 
 Located in the CBD, along Aga Khan walk, this place is fairly new. I went on a Saturday afternoon which was not the best idea. It was filled with ALL the Gen Zs plus so many kids… Nothing against them but wow it was so full of the youths. There was a line outside the door guys… I didn’t want to come back again another day but my friend wasn’t willing to wait - so we left. We came back again early on Sunday, around 11, Lactaid in hand (IYKYK…).

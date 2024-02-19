@@ -7,10 +7,7 @@ business_hours:
   - "Mon - Sun: 10am - 9pm"
 series:
   - "Ando Foods"
-# tags:
-#   - "Cloud kitchen"
-#   - "Asian"
-#   - "Indian"
+tags: [nairobieats, Cloud Kitchen, Ando Foods]
 ---
 
 My love for butter chicken has no bounds and Ando Foods get it right every time. Butter chicken is and will forever be a fave! The Palak Paneer was a first for me to try this year & the lactose intolerant in me persevered & survived.

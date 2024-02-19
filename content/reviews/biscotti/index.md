@@ -5,6 +5,7 @@ draft: false
 maps_query: "Biscotti+Cafe+Muthithi+rd"
 business_hours:
   - "Mon - Sun: 8am - 11pm"
+tags: ["nairobieats", "Coffee Shop", "Brunch", "Biscotti Cafe", "Nairobi Cafe", "Westlands"]
 ---
 
 If you’ve seen the video of the cheesecake with syrup being poured all over it then you know about Biscotti Cafe. Located in the Westlands Eatery Strip Mall, Biscotti Cafe is a cute little cafe that is very inviting from aesthetics alone.

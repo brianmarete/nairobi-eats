@@ -7,6 +7,7 @@ series: ["on-location"]
 business_hours:
   - "Mon - Thurs: 11am - 2am"
   - "Fri - Sun: 11am - 3am"
+tags: ["nairobieats", "kigalieats", "Kigali", "Casual Dining", "Rwanda"]
 ---
 
 This is my second visit to Kigali after very many years and of course I had to hit up some restaurants. First up being - Pili Pili, quite a popular bar and restaurant in Kigali. It feels like more of a lounge than a full on sit down restaurant.

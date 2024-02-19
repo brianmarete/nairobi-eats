@@ -6,8 +6,7 @@ maps_query: "Three+Dee+Restaurant+Kilimani"
 business_hours:
   - "Mon - Sun: 11am - 10pm"
 series: []
-# tags:
-#   - "Kenyan"
+tags: [nairobieats, Coconut Fish, African Food, Kenyan Food, Kilimani]
 ---
 
 3Dee restaurant is a restaurant that focuses on Kenyan food exclusively. It’s been around for quite a while but I only started visiting it more frequently in the last three years or so. Located at the 3Dee Apartment complex in Kilimani, the restaurant takes on the same name and is nicely tucked away in a corner of the complex.
@@ -16,7 +15,7 @@ It looks like your typical restaurant with very little fuss in the decor and aes
 
 Let’s get to the food though. 3Dee is run by a nice luo lady named Dorothy. She’s usually present and says hi to patrons from time to time. Their menu is focused majorly on Kenyan delicacies from the lakeside (the best side😉) and of course utapata nyamchom na ka kachumbari. They’ve diversified their menu to include mainstream meals such as a full English breakfast and pasta but if you’re going to 3Dee you know exactly what you’re going there for. For me it’s the fish.
 
-As a proud luo girl, I rarely, if at all, eat fish outside of my mother’s house because no one ever cooks tilapia properly in these Nairobi streets. So for me to be eating it at 3Dee, just know they have a team doing great work over there.
+As a proud Luo girl, I rarely, if at all, eat fish outside of my mother’s house because no one ever cooks tilapia properly in these Nairobi streets. So for me to be eating it at 3Dee, just know they have a team doing great work over there.
 
 The last time I was there was with a big group of friends so there were a variety of different orders. Their very popular whole fish choma comes in different sizes thus different prices. I got the one for KSH1600/ and had it with some creamed managu (traditional greens-KSH350/) and Ugali (KSH100/). The main meals come with complimentary sides just fyi. That tilapia is split open, marinated to the gods and baked for a good hour so when it’s served it comes out steaming with flavour! That fish is soft, flakey, fresh and very delicious. Add some fresh chillies and you’ll be smiling all through your meal😋 It’s super filling though so if you have this meal, it’s for going to bed immediately after because the itis will be on high I promise you.
 

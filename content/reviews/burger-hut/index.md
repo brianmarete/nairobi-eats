@@ -5,6 +5,7 @@ draft: false
 maps_query: "Burger+Hut+Restaurant+Nairobi"
 business_hours:
   - "Mon - Sun: 8am - 9pm"
+tags: ["nairobieats", "Burgers", "Burger Hut", "Westlands"]
 ---
 
 If this isn’t a blast from the past I don’t know what is😄 Did you guys ever go to Burger Hut back in the day?? Did you also know that Burger Hut has been in business since 1986?? This was a staple Sunday lunch joint in my childhood and then it disappeared from my life for a while until my 20s and since then, it’s always been one of my go to places for simple yet juicy burgers. They have since changed locations though, they are no longer on Mpaka Road but now at Muthithi Road in Westlands, at the shopping centre there.

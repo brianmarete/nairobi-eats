@@ -5,6 +5,7 @@ draft: false
 maps_query: "Fonda's+Taqueria,+Westlands"
 business_hours:
   - "Mon - Sun: 10am - 9:30pm"
+tags: ["nairobieats", "Mexican Food", "Taco Tuesday", "Fonda", "Sarit Centre", "Westlands"]
 ---
 
 A Mexican restaurant after my own heart! Fonda used to be located at the Rosslyn Riviera Mall and I really loved that location because of how much space it had. Luckily they didn’t close down completely and just moved to the rooftop food court at Sarit centre.

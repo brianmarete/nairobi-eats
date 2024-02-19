@@ -47,10 +47,30 @@
         <span class="f6 mv4 dib tracked"> - {{ i18n "wordCount" .WordCount }} </span>
       {{ end }}
     </header>
-    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f5 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f5 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr3-l" }} w-two-thirds-l">
       {{- .Content -}}
       {{- partial "tags.html" . -}}
-      <div class="mt6 instapaper_ignoref">
+      <div>
+        {{/* Use Hugo's native related content feature to pull in content
+        that may have similar parameters, like tags. etc.
+        https://gohugo.io/content-management/related/ */}}
+        {{ $related := .Site.RegularPages.Related . | first 4 }}
+        {{ with $related }}
+          <div
+            class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links"
+          >
+            <p class="f5 b mb3">{{ i18n "related" }}</p>
+            <ul class="pa0 list flex flex-wrap">
+              {{ range . }}
+              <li>
+                {{ .Render "related" }}
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+      </div>
+      <div class="instapaper_ignoref">
       {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
       {{ end }}

@@ -3,8 +3,8 @@ date: 2024-01-18T20:31:36+03:00
 title: "Steph the Chef"
 draft: false
 maps_query: ""
-business_hours:
-  -
+business_hours: []
+tags: ["nairobieats", "Cloud Kitchen", "Steph The Chef", "Brunch"]
 ---
 
 I’ve been wanting to try anything from [Steph the Chef](https://www.instagram.com/_stephthechef_/) for ages! Finally, one fine Sunday, together with some friends, I finally got to try her brunch package.

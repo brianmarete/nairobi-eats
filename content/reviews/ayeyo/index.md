@@ -3,8 +3,8 @@ date: 2024-01-19T10:18:11+03:00
 title: "Ayeyo"
 draft: false
 maps_query: ""
-business_hours:
-  -
+business_hours: []
+tags: ["nairobieats", "Cloud Kitchen", "Somali Food"]
 ---
 
 This cloud kitchen restaurant is a newbie to the Nairobi food scene and they hit the ground running as soon as they launched back in July. Ayeyo is the Somali word for grandmother and a perfect brand name for this Somali restaurant cooking up fresh & delicious meals that taste like food your grandmother would make.

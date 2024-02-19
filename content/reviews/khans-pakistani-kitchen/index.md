@@ -7,9 +7,7 @@ business_hours:
   - "Mon - Sun: 10am - 9pm"
 series:
   - "Ando Foods"
-# tags:
-#   - "Cloud Kitchen"
-#   - "Asian"
+tags: [nairobieats, Cloud Kitchen, Ando Foods]
 ---
 
 I wanna highlight a brand I’ve really come to love - Ando Foods and particularly - Khan’s Biryani. I’ve had the sindhi chicken,mutton, & chicken masala biryani and I really enjoyed them all. Their packaging also is one of the best food package design I’ve seen in a while.

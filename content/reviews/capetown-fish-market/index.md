@@ -6,6 +6,7 @@ maps_query: "Cape+Town+Fish+Market+Zanzibar"
 series: ["on-location"]
 business_hours:
   - "Mon - Sun: 9am - 11pm"
+tags: ["nairobieats", "zanzieats", "Seafood", "Zanzibar", "Cape Town Fish Market"]
 ---
 
 I went to Zanzibar for work so of course I ate a bunch while I was there. Mostly hotel food though. One place I did visit that I would like to review is Cape Town Fish Market Zanzibar.

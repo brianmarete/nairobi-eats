@@ -9,7 +9,7 @@ business_hours:
   - "Fri - Sat: 1pm - 2am"
   - "Sun: 1pm - 12am"
 series: []
-tags: []
+tags: [nairobieats, Mombasa Road, Happy Hour, Fine Dining]
 ---
 
 I’ve been here a few times, & the fact that I keep going back means I must like it. I really love their lemon pasta! I’m not usually a pasta person but this particular dish - I’m happy to have it over & over again. I added prawns to it because why not.

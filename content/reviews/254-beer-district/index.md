@@ -9,7 +9,7 @@ business_hours:
   - "Thurs - Sat: 10am - 2am"
   - "Sun: 10am - 11:30pm"
 series: []
-tags: []
+tags: [nairobieats, Craft Beers, Westlands]
 ---
 
 Formerly where Nyama Mama used to be at Delta Towers, Westlands, the 254 Beer District is a nice take on a bar, restaurant and event space all in one. It has a great open layout that makes the indoors feel like you’re outside and the outdoors feel like you’re inside. The decor is very industrial and edgy, a mix of high and low tables, cool murals, exposed pipes and you can’t miss floating plants in a place like this to bring some warmth to the edginess.

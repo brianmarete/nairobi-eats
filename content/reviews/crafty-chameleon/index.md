@@ -5,6 +5,7 @@ draft: false
 maps_query: Crafty+Chameleon+Brewhouse+and+Restaurant,Nairobi+Kenya
 business_hours:
   - "Mon - Sun: 12pm - 11pm"
+tags: ["nairobieats", "Craft Beers", "Happy Hour", "Lavington", "Casual Dining"]
 ---
 
 Located on James Gichuru road, Crafty Chameleon is both an outdoor & indoor restaurant which I really love - you get the best of both worlds 😊

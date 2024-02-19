@@ -5,6 +5,7 @@ draft: false
 maps_query: "Kahvalti+Café+(Lenana+Rd)"
 business_hours:
   - "Mon - Sun: 7am - 10pm"
+tags: [nairobieats, Brunch, Coffee Shop, Nairobi Cafe, Lenana Rd]
 ---
 
 I came across this place on Instagram’s explore page, I saw a few people talking about it and the food looked nice so I decided to try it one day.

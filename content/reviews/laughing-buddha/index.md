@@ -9,9 +9,7 @@ business_hours:
   - "Fri - Sat: 10:30am - 11pm"
   - "Sun: 11am - 10pm"
 series: []
-# tags:
-#   - "Brunch"
-#   - "Vegetarian"
+tags: [nairobieats, Coffee Shop, Bakery, Vegetarian, Nairobi Cafe, Dessert, Indian Food]
 ---
 
 The Laughing Buddha is located in Kenrail towers ground floor and is also at the Sarit Centre - the new wing. It is fully vegetarian - which surprisingly I didn’t mind. I had a cute pink latte called the rose cardamom latte, some peri peri fries and the paneer bao buns. The latte was so cute but a little too sweet for my liking, though the cardamom really hit the spot!

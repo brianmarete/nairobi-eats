@@ -6,6 +6,7 @@ maps_query: "NAB+A+BURGER+RIVERSIDE"
 business_hours:
   - "Mon: CLOSED"
   - "Tue - Sun: 1pm - 8pm"
+tags: ["nairobieats", "Burgers", "Nab a Burger", "Riverside"]
 ---
 
 I’ve been wanting to visit this place for a very long time and planning for lunch here took an even longer time because aligning schedules with three other adults is an extreme sport. The popular Nab A Burger is located in the Office park complex in Riverside.

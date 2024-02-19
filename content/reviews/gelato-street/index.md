@@ -8,7 +8,7 @@ business_hours:
   - "Wed - Thurs: 1pm - 9pm"
   - "Fri - Sun: 1pm - 10pm"
 series: []
-# tags: ["Ice Cream"]
+tags: [nairobieats, Gelato, Sarit Centre, Westlands, Ice Cream]
 ---
 
 I came across this sweet find late last year and I’ve been obsessed ever since!

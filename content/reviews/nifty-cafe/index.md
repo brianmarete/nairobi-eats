@@ -6,7 +6,7 @@ maps_query: "Nifty+Cafe+and+Wine+Bar,+Tigoni"
 business_hours:
   - "Mon - Sun: 8:30am - 9pm"
 series: ["on-location"]
-tags: []
+tags: [nairobieats, tigonieats, Tigoni]
 ---
 
 Another day, another great gem discovered in Tigoni. Tunahama Tigoni ama? It seems to be the new Naivasha and I’m not mad at it😊 Heard about Nifty many months ago from my cousin and I always wanted to go but just never had the time until December of last year.
