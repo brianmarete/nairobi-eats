@@ -1,7 +1,7 @@
 ---
 date: 2024-02-21T13:46:18+03:00
 title: "Geco Cafe"
-draft: true
+draft: false
 maps_query: "Geco+Café,+Nairobi+Kenya"
 business_hours:
   - "Mon - Sun: 8am - 11pm"
