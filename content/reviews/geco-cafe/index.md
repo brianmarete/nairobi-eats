@@ -6,7 +6,7 @@ maps_query: "Geco+Café,+Nairobi+Kenya"
 business_hours:
   - "Mon - Sun: 8am - 11pm"
 series: []
-tags: [nairobieats, Geco Tribe, Live Music Nairobi, Happy Hour Nairobi]
+tags: [nairobieats, Geco, Geco Tribe, Live Music Nairobi, Happy Hour Nairobi, BBQ]
 ---
 
 Geco Cafe has grown so much from the little cafe it used to be. I remember I’d always go there and get something to eat as I wait for my car to get washed at the Geco car wash.
