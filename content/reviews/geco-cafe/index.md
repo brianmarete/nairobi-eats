@@ -6,7 +6,7 @@ maps_query: "Geco+Café,+Nairobi+Kenya"
 business_hours:
   - "Mon - Sun: 8am - 11pm"
 series: []
-tags: [nairobieats, Geco, Geco Tribe, Live Music Nairobi, Happy Hour Nairobi, BBQ]
+tags: [nairobieats, Geco, Geco Tribe, Live Music Nairobi, Happy Hour, BBQ]
 ---
 
 Geco Cafe has grown so much from the little cafe it used to be. I remember I’d always go there and get something to eat as I wait for my car to get washed at the Geco car wash.
@@ -27,7 +27,7 @@ The fish fingers (KSH800) are 4 in total and come with either chips or a side sa
 
 I have to note that our waitress really had an attitude on this day and barely wanted to serve us. Due to this, everything was so slow, food service was slow, drinks service also slow, even getting the bill was a task.
 
-Anyway, let me not digress so much. The platter finally came after lord knows how long… and even after the wait, it had items missing - it didn’t have the pork ribs and the sausages. Don’t get me wrong, the whole platter looked fantastic but why were there items missing? As she went to find out from the kitchen, we dug into what was already there. That beef was so soft, so sumptuous! All the beef items were grilled to perfection and little bits of fat on the side added so much flavour.  I'm not the biggest lamb fan but even the lamb was tasty and that kuku choma - moist and juicy!
+Anyway, let me not digress so much. The platter finally came after lord knows how long… and even after the wait, it had items missing - it didn’t have the pork ribs and the sausages. Don’t get me wrong, the whole platter looked fantastic but why were there items missing? As she went to find out from the kitchen, we dug into what was already there. That beef was so soft, so sumptuous! All the beef items were grilled to perfection and little bits of fat on the side added so much flavour. I'm not the biggest lamb fan but even the lamb was tasty and that kuku choma - moist and juicy!
 
 Once again after quite a long wait and after we’d gotten through more than half the platter, we finally got the sausages and the ribs😬 Those ribs were looking mad malnourished though… there was barely any meat on the bone yet y’all know how fleshy pork ribs usually are. That was disappointing, feels like we were being given whatever was left that they didn’t want to serve but had to because they possibly didn't want to grill afresh🤷🏾‍♀️
 
@@ -42,7 +42,6 @@ The carwash being right there is also perfect for those who wanna escape traffic
 The Geco Tribe has grown so much that they have their own merch now from sweatshirts to hoodies to cups and wheel covers.
 
 It’s a really dope place to catch up with friends, go on a chill night out if you’re not feeling the club or even for a date because it’s not too fussy. If you’re trying to go today - a flyer on what’s on the lineup tonight is in the gallery below. The show starts at 7pm!
-
 
 ### Ratings
 

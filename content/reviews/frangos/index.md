@@ -7,14 +7,7 @@ business_hours:
   - "Mon: Closed"
   - "Tue - Sun: 11:30am - 10:30pm"
 series: []
-tags:
-  [
-    nairobieats,
-    Frangos,
-    Happy Hour Nairobi,
-    Portuguese Food,
-    Nairobi Restaurants,
-  ]
+tags: [nairobieats, Frangos, Happy Hour, Portuguese Food, Nairobi Restaurants]
 slug: "/frangos-bar-and-churrasquiera"
 ---
 
