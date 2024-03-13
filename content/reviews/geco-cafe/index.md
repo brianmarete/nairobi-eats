@@ -1,5 +1,5 @@
 ---
-date: 2024-02-21T13:46:18+03:00
+date: 2024-01-26T09:28:15+03:00
 title: "Geco Cafe"
 draft: false
 maps_query: "Geco+Café,+Nairobi+Kenya"

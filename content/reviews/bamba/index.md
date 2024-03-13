@@ -1,5 +1,5 @@
 ---
-date: 2024-03-06T20:21:58+03:00
+date: 2024-03-06T20:21:23+03:00
 title: "Bamba"
 draft: false
 maps_query: "bamba,+Amboseli+Road,+Nairobi"
