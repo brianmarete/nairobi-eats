@@ -1,12 +1,20 @@
 ---
-date: 2024-02-16T15:13:04+03:00
+date: 2024-03-13T22:17:31+03:00
 title: "Golden Stool Kitchen & Bar"
 draft: false
 maps_query: "The+Golden+Stool+Kitchen+and+Bar,+Nairobi"
 business_hours:
   - "Mon - Sun: 10am - 11pm"
 series: []
-tags: [nairobieats, Kelewele, Village Market, West African Food, Ghanaian Food, African Food]
+tags:
+  [
+    nairobieats,
+    Kelewele,
+    Village Market,
+    West African Food,
+    Ghanaian Food,
+    African Food,
+  ]
 ---
 
 As always, I noticed the decor first. Love love the decor. There’s a particular velvet chair with roses on the back that I want in my living room but let me stop digressing sorry… (But if anyone knows who did their outfitting let me know please)
