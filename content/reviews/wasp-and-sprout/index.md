@@ -1,5 +1,6 @@
 ---
-date: 2024-04-04T10:57:16+03:00
+# date: 2024-04-04T10:57:16+03:00
+date: 2024-01-18T23:19:43+03:00
 title: "Wasp and Sprout"
 draft: false
 maps_query: "Wasp+%26+Sprout,+Loresho+Ridge,+Nairobi"

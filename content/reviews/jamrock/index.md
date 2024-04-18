@@ -1,5 +1,6 @@
 ---
-date: 2024-04-11T08:59:49+03:00
+# date: 2024-04-11T08:59:49+03:00
+date: 2024-01-25T12:30:43+03:00
 title: "Jamrock"
 draft: false
 maps_query: "Jamrock+Restaurant+and+Grill,+GW+Brook+Business+Park,+Brookside+Drive,+Nairobi"

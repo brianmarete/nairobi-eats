@@ -1,5 +1,6 @@
 ---
-date: 2024-01-25T12:30:43+03:00
+# date: 2024-01-25T12:30:43+03:00
+date: 2024-01-26T09:28:52+03:00
 title: "Bricolage - New York"
 draft: false
 maps_query: "Bricolage+brooklyn+new+york"
