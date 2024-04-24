@@ -7,11 +7,11 @@ business_hours:
   - ""
 series: []
 tags: [nairobieats]
+slug: ""
 ---
 
 Here goes the main content.
 
 ### Ratings
-
 
 {{<remote-image-gallery key="">}}
