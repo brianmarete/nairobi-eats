@@ -1,7 +1,7 @@
 ---
 date: 2024-04-24T19:10:16+03:00
 title: "The Nook Cafe & Bar - Nanyuki"
-draft: true
+draft: false
 maps_query: "The+Nook+Cafe+%26+Bar,+Nanyuki"
 business_hours:
   - "Mon: Closed"
