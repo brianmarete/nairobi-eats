@@ -17,6 +17,7 @@ tags:
     Ol Pejeta,
     Happy Hour Nanyuki,
   ]
+slug: "/the-nook-cafe-and-bar"
 ---
 
 Talking about a nice culinary gem in Nanyuki today. The Nook actually used to be in Nairobi and then they moved to Nanyuki to a bigger space that fits their aesthetic quite perfectly I feel.
