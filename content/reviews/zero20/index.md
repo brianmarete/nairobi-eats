@@ -1,6 +1,6 @@
 ---
-# date: 2024-01-18T23:19:43+03:00
-date: 2024-04-04T10:57:16+03:00
+date: 2024-01-18T23:19:43+03:00
+# date: 2024-04-04T10:57:16+03:00
 title: "Zero20"
 draft: false
 maps_query: "Zero20+Restaurant+%26+Lounge+Kitisuru"
