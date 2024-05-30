@@ -1,6 +1,6 @@
 ---
-# date: 2024-02-16T15:12:37+03:00
-date: 2024-05-18T13:58:50+03:00
+date: 2024-02-16T15:12:37+03:00
+# date: 2024-05-18T13:58:50+03:00
 title: "Red Ginger"
 draft: false
 maps_query: "Red+Ginger+Nairobi"
