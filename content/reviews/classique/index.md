@@ -1,5 +1,6 @@
 ---
-date: 2024-01-18T20:05:00+03:00
+# date: 2024-01-18T20:05:00+03:00
+date: 2024-06-04T12:47:45+03:00
 title: "Classique Burger House"
 draft: false
 maps_query: "Classique+burger+house+Nairobi"
