@@ -1,7 +1,7 @@
 ---
 date: 2024-06-06T12:47:45+03:00
 title: "Cafe AMKA"
-draft: true
+draft: false
 maps_query: "Cafe+AMKA,+Waiyaki+Way,+Nairobi"
 business_hours:
   - "Mon - Sun: 6am - 10pm"
