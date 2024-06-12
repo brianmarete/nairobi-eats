@@ -1,6 +1,6 @@
 ---
-# date: 2024-02-15T08:08:30+03:00
-date: 2024-06-05T12:47:45+03:00
+date: 2024-02-15T08:08:30+03:00
+# date: 2024-06-05T12:47:45+03:00
 title: "The Daily Café & Bistro"
 draft: false
 maps_query: "The+Daily+Café+and+Bistro+-+Argwings+Kodhek+Rd"
