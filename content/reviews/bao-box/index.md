@@ -1,6 +1,6 @@
 ---
-# date: 2024-01-18T20:33:54+03:00
-date: 2024-06-10T11:38:21+03:00
+date: 2024-01-18T20:33:54+03:00
+# date: 2024-06-10T11:38:21+03:00
 title: "Bao Box"
 draft: false
 maps_query: "Bao+Box+Nairobi"
