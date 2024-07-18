@@ -1,6 +1,7 @@
 ---
+# date: 2023-12-01T08:44:41.000Z
+date: 2024-07-18T11:20:34+03:00
 title: Pablos Mexican Bar
-date: 2023-12-01T08:44:41.000Z
 draft: false
 maps_query: Pablos+Mexobar,+Nairobi,+Kenya
 business_hours:

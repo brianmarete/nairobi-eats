@@ -1,5 +1,6 @@
 ---
-date: 2024-02-16T15:13:33+03:00
+# date: 2024-02-16T15:13:33+03:00
+date: 2024-07-18T11:20:34+03:00
 title: "Nairobi Street Kitchen"
 draft: false
 maps_query: "Nairobi+Street+Kitchen,Nairobi+Kenya"

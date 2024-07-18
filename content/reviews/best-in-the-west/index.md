@@ -1,21 +1,22 @@
 ---
-# date: 2024-07-17T11:54:11+03:00
-date: 2024-04-25T11:54:11+03:00
+date: 2024-07-17T11:54:11+03:00
+# date: 2024-04-25T11:54:11+03:00
 title: "Best In The West - Negril"
 draft: false
 maps_query: "Best+In+The+West,+Paynes+Town,+Jamaica"
 business_hours:
   - "Mon - Sun: 11am - 11pm"
 series: ["on-location"]
+section: "Featured"
 tags:
   [
     nairobieats,
-    negrileats,
-    negril restaurants,
-    jamaican food,
-    jamaican cuisine,
-    jerk chicken,
-    restaurants in negril,
+    Negrileats,
+    Negril Restaurants,
+    Jamaican Food,
+    Jamaican Cuisine,
+    Jerk Chicken,
+    Restaurants In Negril,
   ]
 slug: ""
 ---
