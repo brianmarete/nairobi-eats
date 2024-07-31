@@ -5,7 +5,17 @@ draft: false
 maps_query: Le+Grenier+À+Pain,+Riverside+nairobi+kenya
 business_hours:
   - "Mon - Sun: 7am - 7pm"
-tags: ["nairobieats", "Coffee Shop", "French Restaurant", "Nairobi Cafe", "Brunch", "Riverside", "Bakery"]
+tags:
+  [
+    "nairobieats",
+    "Coffee Shop",
+    "French Restaurant",
+    "Nairobi Cafe",
+    "Brunch",
+    "Riverside",
+    "Bakery",
+  ]
+featured: true
 ---
 
 This restaurant is one of my regular spots. I've spent a lot of time here over the years. If you come here in the morning the wonderful scent of freshly baked goods welcomes you and sits with you in their cosy round table booths. She may not remember this but a close friend of mine, [Abigail](https://www.instagram.com/abigailarunga/), is the one who introduced me to this spot years ago when they had just opened. She came home with one of the mocha eclairs and I said I just have to get another so I brought myself to the source.

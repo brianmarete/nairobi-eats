@@ -8,6 +8,7 @@ business_hours:
 series: []
 tags: [nairobieats]
 slug: ""
+featured: true
 ---
 
 Here goes the main content.
