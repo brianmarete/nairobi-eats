@@ -10,6 +10,7 @@ business_hours:
   - "Sun: 8am - 11pm"
 series: []
 tags: [nairobieats, Street Kitchen, Westlands]
+# featured: true
 ---
 
 This place had people in a chokehold back in 2021 when they just opened! Been here maybe a total of two times only. The parking situation already usually puts me off from going back but I digress… I really like the street-esque look of the place, the graffiti and the artwork is dope but also… hatukuli vibes.

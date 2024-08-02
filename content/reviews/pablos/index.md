@@ -1,11 +1,12 @@
 ---
-title: Pablos Mexican Bar
 date: 2023-12-01T08:44:41.000Z
+title: Pablos Mexican Bar
 draft: false
 maps_query: Pablos+Mexobar,+Nairobi,+Kenya
 business_hours:
   - "Mon - Sun: 11am - 11pm"
 tags: ["nairobieats", "Mexican Food", "Boardwalk Mall", "Parklands"]
+# featured: true
 ---
 
 I heard about this place from a few people and never got a chance to visit until just recently. I never even knew the boardwalk mall existed until the day I went there😅
