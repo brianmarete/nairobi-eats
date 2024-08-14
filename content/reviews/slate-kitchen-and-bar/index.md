@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 12pm - 10pm"
 series: []
 tags: [nairobieats, Fine Dining, Westlands]
-featured: true
+# featured: true
 ---
 
 Upon getting here, the service was the first thing I noted. There are parking attendants at every point of the parking lot to direct you (it’s kind of confusing finding the entrance so I appreciated the assistance). The hostesses are welcoming and reservations are very necessary - the place gets full quick on Fridays and weekends.
