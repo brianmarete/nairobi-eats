@@ -7,6 +7,7 @@ business_hours:
   - "Mon - Tue: 10am - 9:30pm"
   - "Wed - Sun: 10am - 10:30pm"
 tags: ["nairobieats", "Burgers", "Kilimani"]
+featured: true
 ---
 
 Mama Rocks hit the scene back in 2016 and I remember being very excited for proper gourmet burgers and the fun flavours to boot. They’ve made a name for themselves in the fast food scene starting from the original food truck at the Alchemist to expanding with branches in various parts of the city today.
@@ -40,6 +41,5 @@ Fun fact: Mama Rocks debut into the market resulted in my very first [Forbes Afr
 Food: ⭐️⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️<br>
-
 
 {{< remote-image-gallery key="mama-rocks" >}}
