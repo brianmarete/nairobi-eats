@@ -3,7 +3,7 @@ date: 2024-01-19T10:38:05+03:00
 title: "Pili Pili - Kigali"
 draft: false
 maps_query: "Pili+pili+Kigali"
-series: ["on-location"]
+series: ["traveleats"]
 business_hours:
   - "Mon - Thurs: 11am - 2am"
   - "Fri - Sun: 11am - 3am"

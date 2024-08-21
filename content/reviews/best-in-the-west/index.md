@@ -6,7 +6,7 @@ draft: false
 maps_query: "Best+In+The+West,+Paynes+Town,+Jamaica"
 business_hours:
   - "Mon - Sun: 11am - 11pm"
-series: ["on-location"]
+series: ["traveleats"]
 section: "Featured"
 tags:
   [

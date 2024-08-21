@@ -3,7 +3,7 @@ date: 2024-01-19T10:50:21+03:00
 title: "Salty Squid - Diani"
 draft: false
 maps_query: "The+Salty+Squid+Beach+Bar+%26+Restaurant"
-series: ["on-location"]
+series: ["traveleats"]
 business_hours:
   - "Mon - Sun: 7:30am - 10pm"
 tags: ["nairobieats", "dianieats", "Seafood", "Diani", "Casual Dining"]

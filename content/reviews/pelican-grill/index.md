@@ -5,7 +5,7 @@ draft: false
 maps_query: "The+Pelican+Grill,+Gloucester+Avenue,+Montego+Bay,+Jamaica"
 business_hours:
   - "Mon - Sun: 7am - 10pm"
-series: ["on-location"]
+series: ["traveleats"]
 tags:
   [
     nairobieats,

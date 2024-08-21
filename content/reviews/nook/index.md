@@ -6,7 +6,7 @@ maps_query: "The+Nook+Cafe+%26+Bar,+Nanyuki"
 business_hours:
   - "Mon: Closed"
   - "Tue - Sun: 9am - 11pm"
-series: ["on-location"]
+series: ["traveleats"]
 tags:
   [
     nairobieats,

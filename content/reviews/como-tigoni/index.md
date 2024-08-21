@@ -5,7 +5,7 @@ draft: false
 maps_query: "Como+Tigoni,+Riara+Ridge"
 business_hours:
   - "Wed - Sun: 12pm - 9pm"
-series: ["on-location"]
+series: ["traveleats"]
 tags: [nairobieats, tigonieats, Tigoni]
 ---
 

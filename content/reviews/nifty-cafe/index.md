@@ -5,7 +5,7 @@ draft: false
 maps_query: "Nifty+Cafe+and+Wine+Bar,+Tigoni"
 business_hours:
   - "Mon - Sun: 8:30am - 9pm"
-series: ["on-location"]
+series: ["traveleats"]
 tags: [nairobieats, tigonieats, Tigoni]
 ---
 
@@ -27,7 +27,7 @@ The toasted crepe has your choice of beef or ham, onions, mushrooms and cheese. 
 
 For the breakfast bagel - it’s filled with an onion omelette, cheese and you can choose to either have bacon or sausage in it too. It comes with this tomato concasse sauce that’s really yum and actually what I wish could have been added to the crepe.
 
-They said it’s meant to be a cheese & chive bagel… it was not. It barely even looked like an actual bagel, wasn’t as thick and just felt and tasted like a normal bun bread that happened to have the bagel hole in the middle. There were no chives nor cheese within that bread.  I’ve had my fair share of bagels so I know a bagel when I taste one. If the cheese & chive bagel wasn’t actually that, I wonder how they do the cinnamon raisin bagel - does it have actual raisins and cinnamon? Can someone try it and tell me? Thanks in advance.
+They said it’s meant to be a cheese & chive bagel… it was not. It barely even looked like an actual bagel, wasn’t as thick and just felt and tasted like a normal bun bread that happened to have the bagel hole in the middle. There were no chives nor cheese within that bread. I’ve had my fair share of bagels so I know a bagel when I taste one. If the cheese & chive bagel wasn’t actually that, I wonder how they do the cinnamon raisin bagel - does it have actual raisins and cinnamon? Can someone try it and tell me? Thanks in advance.
 
 Bagel critique aside - that whole meal was much better than the crepe I had. It’s very filling, very tasty, it comes with a side salad making it a well balanced breakfast. Something I’d definitely recommend and would have again if I go back there for breakfast/brunch.
 

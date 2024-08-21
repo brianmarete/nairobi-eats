@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 11am - 10pm"
 series: []
 tags: [nairobieats, Coconut Fish, African Food, Kenyan Food, Kilimani]
-featured: true
+# featured: true
 ---
 
 3Dee restaurant is a restaurant that focuses on Kenyan food exclusively. It’s been around for quite a while but I only started visiting it more frequently in the last three years or so. Located at the 3Dee Apartment complex in Kilimani, the restaurant takes on the same name and is nicely tucked away in a corner of the complex.

@@ -3,11 +3,12 @@ date: 2024-01-25T12:31:21+03:00
 title: "Sea Wolf - New York"
 draft: false
 maps_query: "sea+wolf+brooklyn"
-series: ["on-location"]
+series: ["traveleats"]
 business_hours:
   - "Mon: 1pm - 11pm"
   - "Tue - Sun: 12pm - 11pm"
 tags: [nairobieats, nyeats, New York]
+featured: true
 ---
 
 Sea Wolf in Brooklyn came highly recommended by some friends and reviews online seemed mostly positive so I was excited to try some fish in the big apple finally.

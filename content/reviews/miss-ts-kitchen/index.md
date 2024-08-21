@@ -5,7 +5,7 @@ draft: false
 maps_query: "Miss+T's+Kitchen,+Main+Street,+Ocho+Rios,+Jamaica"
 business_hours:
   - "Mon - Sun: 12pm - 9pm"
-series: ["on-location"]
+series: ["traveleats"]
 tags:
   [
     nairobieats,

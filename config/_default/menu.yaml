@@ -7,7 +7,7 @@ main:
     name: Reviews
     pageRef: /reviews
     weight: 200
-  - identifier: on-location
-    name: "#OnLocation"
-    pageRef: /series/on-location
+  - identifier: traveleats
+    name: "#TravelEats"
+    pageRef: /series/traveleats
     weight: 300
