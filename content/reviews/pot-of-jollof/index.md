@@ -8,7 +8,7 @@ business_hours:
   - "Fri - Sun: 8am - 11:30pm"
 series: []
 tags: [nairobieats, Nigerian Food, African Food, Nairobi Restaurants]
-featured: true
+# featured: true
 ---
 
 Today’s review is about a place that pleasantly surprised me. It’s located along the Westfield Hub strip mall along Likoni road, Kilimani. My friend introduced me to this place on a day when I was so starved! I was ready to eat anything and he was like - let’s get Jollof! It's quite small so not really a place to dine in but perfect for takeaway.

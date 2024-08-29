@@ -8,7 +8,7 @@ business_hours:
   - "Mon: 1pm - 11pm"
   - "Tue - Sun: 12pm - 11pm"
 tags: [nairobieats, nyeats, New York]
-featured: true
+# featured: true
 ---
 
 Sea Wolf in Brooklyn came highly recommended by some friends and reviews online seemed mostly positive so I was excited to try some fish in the big apple finally.
