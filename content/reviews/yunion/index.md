@@ -1,6 +1,6 @@
 ---
 date: 2024-08-29T07:42:14+03:00
-title: "Yunion"
+title: "Yunion Brunch Café & Bar"
 draft: false
 maps_query: "Yunion+-+Brunch+Caf%C3%A9+%26+Bar,+GTC+Mall,+Waiyaki+Way,+Nairobi"
 business_hours:
