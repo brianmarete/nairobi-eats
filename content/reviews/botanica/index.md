@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 9am - 10pm"
 series: []
 tags: [nairobieats, Fine Dining, Westlands]
-featured: true
+# featured: true
 ---
 
 Botanica is located at One Place Africa, Westlands. They used to be Honey & Dough prior to this rebrand. I feel like they’re going for a more gastro/fine dining route & it’s working for them from the experience we had here.

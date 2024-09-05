@@ -7,7 +7,9 @@ business_hours:
   - "Mon - Fri: 8:30am - 5pm"
   - "Sat: 8:30am - 4pm"
   - "Sun: Closed"
-tags: ["nairobieats", "Cakes", "Nairobi Bakery", "Githurai", "Bakery", "Dessert"]
+tags:
+  ["nairobieats", "Cakes", "Nairobi Bakery", "Githurai", "Bakery", "Dessert"]
+featured: true
 ---
 
 Small Heaven bakery sent me one of their medley boxes and being the sweet tooth that I am, I was very excited to eat cake all day everyday 😁 What I thought would just be a box of small sample sizes ended up being a big box of 8 healthy slices of cake! The flavours included Passion Fruit, Pina Colada, Sacher, Lemon Blueberry, Cinnamon & Cherry, Chocolate Mint, Fruit Delight and Lemon Poppy.
