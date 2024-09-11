@@ -29,7 +29,6 @@ Sierra is also a popular place for steaks. I’m not a steak person as such but 
 
 Overall thoughts: I’ve always loved Sierra, I still love it to this day - it’s always gonna be on my list of places to eat in Nairobi to recommend.
 
-
 ### Ratings
 
 Food: ⭐️⭐️⭐️⭐️<br>

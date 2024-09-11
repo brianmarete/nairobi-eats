@@ -20,7 +20,7 @@ tags:
     Restaurants In Nairobi,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 We are in Spring valley today talking about Sugar Bowl - a very cute restaurant with a great menu to match. The decor is nice and simple and minimalist but also elegant - the warm lighting in various pockets of the restaurant particularly really caught my eye. Great lighting really makes or breaks a place. They have an upper and lower section with outside seating as well on both sections.
