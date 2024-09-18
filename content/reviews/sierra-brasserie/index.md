@@ -7,6 +7,7 @@ business_hours:
   - "Mon - Sun: 11am - 10pm"
 series: []
 tags: [nairobieats, Fine Dining, Steakhouse, Sierra]
+featured: true
 ---
 
 Sierra has maintained their quality of food, service & ambience for years and I really appreciate that about them. The balcony area is really my favourite place to sit!
