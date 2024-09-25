@@ -1,35 +1,36 @@
 <style>
-  .image-gallery {
+  .mini-image-gallery {
     display: grid;
     grid-template-columns: repeat(2, 150px);
     justify-content: center;
     align-items: center;
-    gap: 10px; /* Adjust gap as needed */
+    gap: 10px;
     padding: 0;
   }
-  .image-gallery.four-images {
+  .mini-image-gallery.four-images {
     grid-template-columns: repeat(4, 1fr);
   }
-  .image-gallery.three-images {
+  .mini-image-gallery.three-images {
     grid-template-columns: repeat(3, 1fr);
   }
-  .image-gallery li {
+  .mini-image-gallery li {
     display: block; margin: 0 0 1% 1%;
   }
-  .image-gallery li a {
+  .mini-image-gallery li a {
     text-align: center;
     text-decoration: none!important;
     color: #777;
   }
-  .image-gallery li a span {
+  .mini-image-gallery li a span {
     display: block;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
     padding: 3px 0;
   }
-  .image-gallery li a img {
-    width: 100%; display: block;
+  .mini-image-gallery li a img {
+    width: 100%;
+    display: block;
   }
 </style>
 {{ $postID := .Get "key" }}
@@ -37,7 +38,7 @@
 {{ $titlesArray := split $titles " " }}
 
 {{ with index .Site.Data.gallery $postID }}
-<ul class="image-gallery {{ if eq (len $titlesArray) 3 }}three-images{{ end }} {{ if eq (len $titlesArray) 4 }}four-images{{ end }}">
+<ul class="mini-image-gallery {{ if eq (len $titlesArray) 3 }}three-images{{ end }} {{ if eq (len $titlesArray) 4 }}four-images{{ end }}">
   {{ range . }}
     {{- $imageTitle := .title -}}
     {{ if in $titlesArray $imageTitle }}
