@@ -1,3 +1,53 @@
-<style> .image-gallery { display: grid; grid-template-columns: repeat(2, 150px); justify-content: center; align-items: center; gap: 10px; /* Adjust gap as needed */ padding: 0; } .image-gallery.four-images { grid-template-columns: repeat(4, 1fr); } .image-gallery.three-images { grid-template-columns: repeat(3, 1fr); } .image-gallery li {display: block; margin: 0 0 1% 1%;} .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;} .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;} .image-gallery li a img {width: 100%; display: block;}</style>
-{{ $postID := .Get "key" }}{{ $titles := .Get "titles" }}{{ $titlesArray := split $titles " " }}
-{{ with index .Site.Data.gallery $postID }} <ul class="image-gallery {{ if eq (len $titlesArray) 3 }}three-images{{ end }} {{ if eq (len $titlesArray) 4 }}four-images{{ end }}"> {{ range . }} {{- $imageTitle := .title -}} {{ if in $titlesArray $imageTitle }} {{- $image := resources.GetRemote .link -}} <li> <a href="{{ ($image.Fit "1600x1600 q50").Permalink }}" title="{{ $imageTitle }}" class="lightbox-image"> <img src="{{ ($image.Fill "300x300 q50").Permalink }}" alt="{{ $imageTitle }}" title="{{ $imageTitle }}"> </a> </li> {{ end }} {{ end }} </ul>{{ end }}
+<style>
+  .image-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 150px);
+    justify-content: center;
+    align-items: center;
+    gap: 10px; /* Adjust gap as needed */
+    padding: 0;
+  }
+  .image-gallery.four-images {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .image-gallery.three-images {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .image-gallery li {
+    display: block; margin: 0 0 1% 1%;
+  }
+  .image-gallery li a {
+    text-align: center;
+    text-decoration: none!important;
+    color: #777;
+  }
+  .image-gallery li a span {
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 3px 0;
+  }
+  .image-gallery li a img {
+    width: 100%; display: block;
+  }
+</style>
+{{ $postID := .Get "key" }}
+{{ $titles := .Get "titles" }}
+{{ $titlesArray := split $titles " " }}
+
+{{ with index .Site.Data.gallery $postID }}
+<ul class="image-gallery {{ if eq (len $titlesArray) 3 }}three-images{{ end }} {{ if eq (len $titlesArray) 4 }}four-images{{ end }}">
+  {{ range . }}
+    {{- $imageTitle := .title -}}
+    {{ if in $titlesArray $imageTitle }}
+      {{- $image := resources.GetRemote .link -}}
+      <li>
+        <a href="{{ ($image.Fit "1600x1600 q50").Permalink }}" title="{{ $imageTitle }}" class="lightbox-image">
+          <img src="{{ ($image.Fill "300x300 q50").Permalink }}" alt="{{ $imageTitle }}" title="{{ $imageTitle }}">
+        </a>
+      </li>
+    {{ end }}
+  {{ end }}
+</ul>
+{{ end }}
