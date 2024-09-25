@@ -2,6 +2,7 @@
 date: 2024-01-18T19:37:04+03:00
 title: "Capetown Fish Market - Zanzibar"
 draft: false
+featured: true
 maps_query: "Cape+Town+Fish+Market+Zanzibar"
 series: ["traveleats"]
 business_hours:
@@ -14,11 +15,15 @@ I went to Zanzibar for work so of course I ate a bunch while I was there. Mostly
 
 I’ve only been to the branch in Dar es Salaam, very many years ago so this was a nice refresher. It’s such a beautifully done restaurant, very big, very modern, very open, right by the ocean so the sunset views are as you’d expect - PERFECT.
 
+{{<image-gallery key="capetown-fish-market" titles="capetown-00 capetown-13 capetown-03">}}
+
 They have such a vast menu but we were all here for one thing and one thing only - seafood. If you are new here then I need you to know that I’m not the biggest seafood fan but I still had my fill of stuff. I tried the fish tacos (TSH18,000/ KSH1,050) and we also had the Kalk Bay seafood Platter (TSH96,000/ KSH5,600).
 
 I have mixed reviews about the fish tacos - I absolutely loved the fish within the taco. It was two pieces of deep fried breadcrumbed fillet fish which were super tasty, the breadcrumbs must have been mixed in with some spices because the fish had a bit of a nice kick to it - really good fish fingers. The whole taco itself, very underwhelming - very dry & I know fish tacos are essentially dry but they are usually accompanied with some kind of sauce/salsa, they didn’t put much of the spicy mayo on it and the slaw… wasn’t really slaw😬 I would have been fine just having the fish on its own as a fish fingers type dish.
 
 The platter included prawns, calamari, squid, fish fillets, mussels and fries and spiced rice. Their portions are quite large and very filling even for me who only ate the prawns and the fish and the chips and the rice. I clearly had quite a bit of everything-ish and it was all super tasty, the fillet fish especially was well marinated with a light crisp on the outside and a nice fleshy flakiness on the inside.
+
+{{<image-gallery key="capetown-fish-market" titles="capetown-01 capetown-02">}}
 
 Not pictured is the chocolate volcano we tried for dessert (TSH16,000/KSH940/) - I wouldn’t recommend. It was just okay.
 
@@ -32,4 +37,4 @@ Food:⭐️⭐️⭐️⭐️<br>
 Service:⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
 
-{{< remote-image-gallery key="capetown-fish-market" >}}
+{{< remote-image-gallery key="capetown-fish-market-menu" >}}

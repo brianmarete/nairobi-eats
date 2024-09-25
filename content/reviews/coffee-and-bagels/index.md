@@ -24,7 +24,7 @@ tags:
     Cold Brew Nairobi,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Taking a small break from the big restaurants today to talk about this small but cool cafe in the middle of Kilimani. Right off Lenana Road, coffee and bagels has a nice big sign so you can’t miss it and is in the same compound as possibly the busiest car wash in the area (that place is never empty!)
