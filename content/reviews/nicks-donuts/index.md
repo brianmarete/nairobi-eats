@@ -35,7 +35,7 @@ Their menu has plenty of flavour options and some specials like donut holes, app
 
 The menu design could use some work especially since there’s always a change given what filling/glaze/topping is available on a given day. They could probably just design one solid menu and you’re told upon ordering whether your choice of filling is available or not. The constant relabeling method they have currently just makes it look confusing.
 
-That aside - we were excited to try a couple of different flavours. One donut goes for KSH400 and an assorted box of 9 goes for KSH2000. When you make your order, they have you fill out a sheet with your name, # of donuts, and choice of filling, glaze etc. Our order was as follows:
+That aside - we were excited to try a couple of different flavours. One donut costs between KSH300 - KSH400 depending on the type of cream filling you get and an assorted box of 9 goes for KSH2000. When you make your order, they have you fill out a sheet with your name, # of donuts, and choice of filling, glaze etc. Our order was as follows:
 
 **Donut 1**: vanilla custard filling, original glaze, raspberry drizzle<br>
 **Donut 2**: cookies and cream filling, cinnamon sugar glaze, passion drizzle, Oreo topping<br>
