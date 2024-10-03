@@ -18,7 +18,7 @@ tags:
     Restaurants In Nairobi,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 We’re talking about snacks today! I’ve been hearing and seeing a lot about Nick’s donuts for possibly over a year now but never really paid attention until recently. I’m not the biggest donut fan, I find them too doughy for my liking but these ones looked different from the classic donut so figured why not give them a try.

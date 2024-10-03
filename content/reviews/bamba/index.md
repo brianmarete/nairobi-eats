@@ -9,6 +9,7 @@ business_hours:
   - "Fri - Sun: 12pm - 11pm"
 series: []
 tags: [nairobieats, Bamba, Lebanese Food, Happy Hour]
+featured: true
 ---
 
 Bamba is located on Amboseli road in Lavington but can be a bit tricky to find because the sign is quite hidden, they need bigger signage. The restaurant itself is set up quite nicely, it’s a semi-outdoor space with plenty of seating space either at the bar or the main dining space.

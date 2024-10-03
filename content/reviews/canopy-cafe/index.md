@@ -8,7 +8,7 @@ business_hours:
   - "Sat - Sun: 9am - 10pm"
 series: []
 tags: [nairobieats, Coffee Shop, Brunch, Nairobi Cafe, Kilimani]
-featured: true
+# featured: true
 ---
 
 I visited Canopy Cafe this past weekend for brunch and I have lots of thoughts! The cafe is located in Ushuru Sacco Plaza, Kilimani.
