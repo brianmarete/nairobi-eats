@@ -2,7 +2,7 @@
 date: 2024-10-03T09:39:26+03:00
 title: "Măm Măm Vietnamese Kitchen"
 draft: false
-maps_query: ""
+maps_query: "Măm+Măm+Vietnamese+Kitchen+%26+Rooftop+Bar,+Mwanzi+Market,+Nairobi"
 business_hours:
   - "Mon - Sun: 10am - 12am"
 series: []
