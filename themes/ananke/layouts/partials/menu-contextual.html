@@ -7,8 +7,7 @@ your parameters for this to show. https://gohugo.io/content-management/toc/ */}}
   <p class="f5 b mb3">{{ i18n "whatsInThis" . }}</p>
   {{ .TableOfContents }}
 </div>
-{{- end -}}
-{{- if .Params.business_hours -}}
+{{- end -}} {{- if .Params.business_hours -}}
 <div
   class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links mb3"
 >
@@ -26,4 +25,10 @@ your parameters for this to show. https://gohugo.io/content-management/toc/ */}}
   allowfullscreen
   src="https://www.google.com/maps/embed/v1/place?zoom=17&q={{ .Params.maps_query}}&key=AIzaSyDdCu46Y_U2HvjC0PZwwqlPGtx0LHak5u4"
 ></iframe>
+<div class="mt3">
+  {{ $instagram := index .Site.Params.ananke_socials 1 }}
+  <a href="{{ $instagram.url }}" target="_blank" rel="noopener">
+    <img src="{{ .Site.Params.aside_image }}" alt="" />
+  </a>
+</div>
 {{- end -}}
