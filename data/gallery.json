@@ -1529,7 +1529,9 @@
     {
       "title": "chez09",
       "link": "https://pub-4724642652e24a15ae8859ce2d274595.r2.dev/chez09.jpeg"
-    },
+    }
+  ],
+  "chez-sonia-menu": [
     {
       "title": "chez10",
       "link": "https://pub-4724642652e24a15ae8859ce2d274595.r2.dev/chez10.jpeg"
@@ -2511,6 +2513,12 @@
       "link": "https://pub-4724642652e24a15ae8859ce2d274595.r2.dev/hero08.jpeg"
     },
     {
+      "title": "hero14",
+      "link": "https://pub-4724642652e24a15ae8859ce2d274595.r2.dev/hero14.jpeg"
+    }
+  ],
+  "hero-menu": [
+    {
       "title": "hero09",
       "link": "https://pub-4724642652e24a15ae8859ce2d274595.r2.dev/hero09.jpeg"
     },
@@ -2529,10 +2537,6 @@
     {
       "title": "hero13",
       "link": "https://pub-4724642652e24a15ae8859ce2d274595.r2.dev/hero13.jpeg"
-    },
-    {
-      "title": "hero14",
-      "link": "https://pub-4724642652e24a15ae8859ce2d274595.r2.dev/hero14.jpeg"
     }
   ],
   "izzi": [

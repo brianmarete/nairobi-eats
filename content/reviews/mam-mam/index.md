@@ -20,7 +20,7 @@ tags:
     Pho In Nairobi,
   ]
 slug: "/măm-măm-vietnamese-kitchen"
-featured: true
+# featured: true
 ---
 
 We finally have an authentic Vietnamese restaurant in Nairobi! Măm Măm is located at the Mwanzi Market in Westlands and is the first Vietnamese restaurant to open shop in Nairobi. I was very excited to try it out because they focus on Vietnamese street food and one thing about Asian cuisine, it’s gonna slap😋
