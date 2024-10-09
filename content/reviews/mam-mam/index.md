@@ -31,9 +31,9 @@ The restaurant itself is such vibes already from the thematic red flowing throug
 
 The menu you guys… this is one of the best designed menus I’ve seen in a very long time. If you know me you know I love an aesthetically pleasing menu and Măm Măm did not disappoint. It’s large, it’s vibrant, it’s fun, it’s textured in all the right places, it’s inviting - it makes you want everything and that’s how a menu should be - it should draw the customer in from the very first page. They invested in the design of that menu and it did not go unnoticed👌🏾
 
-{{<image-gallery key="mam-mam" titles="mam-mam19 mam-mam20 mam-mam22 mam-mam25">}}
-
 So because the menu already had us wanting everything, we had to keep calm and practise some self control lol… I came here for dinner with a friend and we both decided we have to try the Pho. We got some starters first - mushroom spring rolls (KSH1200) and the shrimp spring rolls (KSH1000) and had the stir fried beef Pho (KSH1800) for our mains. I opted to have a coffee as well because I’ve always heard great things about Vietnamese coffee. I went for the salt coffee (KSH450) because it sounded intriguing by name alone.
+
+{{<image-gallery key="mam-mam" titles="mam-mam19 mam-mam20 mam-mam22 mam-mam25">}}
 
 Y’all… the Vietnamese can make a damn good coffee😮‍💨 That salt coffee was amazing! It’s a mix of black phin drip coffee, rich cream and a bit of salt… the result? An explosion of goodness in my mouth! Tasted like a salted caramel iced coffee but not as sweet as you’d think, the balance of salt and sweet is perfect. I dream about that salt coffee from time to time, so good.
 
@@ -41,11 +41,13 @@ The mushroom spring rolls were perfectly crispy, so yummy and bursting with flav
 
 The shrimp spring rolls are super FRESH! They are steamed and thus are very different in taste compared to the fried ones. Rolled in rice paper (which is very sticky btw), the roll has veggies and freshly grilled shrimp. We tried pho sauce and peanut sauce as dips and they were both so good! PS: the peanut sauce is spicy - just fyi.
 
-Now for the Pho. I’ve had Pho a total of two times now. Once in NY and the last time was at the Arbor thanks to a friend’s recommendation. Both were insanely good. This stir fried beef pho warmed my soul. The beef is super tender, the noodles are filling, the broth is delicious. What I didn’t like was the amount of broth - it was too little for my liking compared to other Phos. The beef and veggie add ons felt more than the broth. I added some chilli because I like spice and squeezed some lemon in to add some tartness - the dish is quite filling though, I didn’t finish the whole thing. Is this pho good? Yes. Is this the best pho I’ve ever had? No. I actually think the one at the Arbor is much better if I was to rate the two of them.
-
 {{<image-gallery key="mam-mam" titles="mam-mam05 mam-mam03 mam-mam04 mam-mam01">}}
 
+Now for the Pho. I’ve had Pho a total of two times now. Once in NY and the last time was at the Arbor thanks to a friend’s recommendation. Both were insanely good. This stir fried beef pho warmed my soul. The beef is super tender, the noodles are filling, the broth is delicious. What I didn’t like was the amount of broth - it was too little for my liking compared to other Phos. The beef and veggie add ons felt more than the broth. I added some chilli because I like spice and squeezed some lemon in to add some tartness - the dish is quite filling though, I didn’t finish the whole thing. Is this pho good? Yes. Is this the best pho I’ve ever had? No. I actually think the one at the Arbor is much better if I was to rate the two of them.
+
 I did not try the popular banh mi (Vietnamese street style baguette sandwich) as we had no more room for more food but from what I’ve heard from others who’ve tried it - it’s very mixed reviews… not great, not bad but not willing to try again, so you guys decide based on that if you’d like to try it.
+
+{{<image-gallery key="mam-mam" titles="mam-mam15 mam-mam12 mam-mam13 mam-mam14">}}
 
 The service here was good and fast… up until the time we had to pay. We couldn’t get any server’s attention for a while and that was frustrating. Granted they were a full house that day but if the service has been great throughout, the momentum should be kept until the very end - just my thoughts.
 
