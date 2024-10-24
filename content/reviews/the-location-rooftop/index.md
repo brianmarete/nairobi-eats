@@ -29,7 +29,7 @@ keywords:
     restaurant review,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 The Location is located in Kilimani, at Alta Towers to be exact. I like the play on words in the name and also a fun name to get decor inspo from judging by the big location icon right in the heart of the restaurant. It’s quite spacious and the floor to ceiling windows allows in a lot of light making it feel even bigger. The 360 view of the city is a nice bonus as well.

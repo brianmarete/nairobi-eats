@@ -8,6 +8,7 @@ business_hours:
   - "Tue - Sat: 12pm - 11pm"
   - "Sun: 12pm - 9pm"
 tags: ["nairobieats", "Italian Food", "Pasta", "Kitisuru", "Fine Dining"]
+featured: true
 ---
 
 Italian food is never a bad idea 🙃 La Villa is located in Kitisuru in a nice vast compound. It’s a beautifully done restaurant that has both indoor and outdoor sections, with plenty of space for large parties and intimate booths for smaller ones as well. I sat at a corner by a stunning wine bottle wall, the red tops and the dark bottles add to the moody ambience which I really love.
@@ -33,6 +34,5 @@ La Villa is great for date nights, business lunches/dinners, the outside area is
 Food: ⭐️⭐️⭐️<br>
 Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️<br>
-
 
 {{< remote-image-gallery key="la-villa" >}}
