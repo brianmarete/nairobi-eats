@@ -12,6 +12,7 @@ featured: true
 ---
 
 Here goes the main content.
+{{<image-gallery key="" titles="">}}
 
 ### Ratings
 
