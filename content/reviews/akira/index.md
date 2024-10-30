@@ -23,7 +23,7 @@ keywords:
     akira menu,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 This Asian fusion restaurant is located on the 1st floor of Westgate Mall, Westlands. I was impressed by the decor already when I entered; the minimal wood styling and sleek furniture are so well done. They have different types of seating areas depending on what your mood is like. If you’re a big group you can take one of the bigger dining tables, if you want more of an experience you can try the Japanese style dining tables where the seats are not elevated and have you literally sitting on the ground - on very comfy cushions though!
