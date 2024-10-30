@@ -3,7 +3,7 @@ site_logo: "image/NairobiEats-Logo-White.png"
 title: "NairobiEats"
 description: "Welcome to Nairobi Eats, your one-stop shop for restaurant reviews within Nairobi and beyond!"
 recent_copy: "Featured Reviews"
-aside_image: "https://pub-4724642652e24a15ae8859ce2d274595.r2.dev/octover-flavor-fest.jpeg"
+aside_image: "" # for promotions in the article page
 # mainSections: "featured"
 images:
   - "image/NairobiEats-Logo-Black-rectangle.png"

@@ -7,6 +7,7 @@ business_hours:
   - ""
 series: []
 tags: [nairobieats]
+keywords: [nairobieats]
 slug: ""
 featured: true
 ---
