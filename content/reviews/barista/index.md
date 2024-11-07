@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 7am - 8pm"
 series: []
 tags: [nairobieats]
-featured: true
+# featured: true
 ---
 
 I’ve been a fan of this place for quite some time now. I’m not vegetarian and I rarely go to vegetarian places by choice but one day I tried this place and I’ve been a loyal customer ever since!

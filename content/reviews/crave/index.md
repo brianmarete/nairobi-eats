@@ -28,7 +28,7 @@ keywords:
     nairobi restaurants,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 So my very first impression of this place wasn’t the best… but given that I didn’t die in their final destination style parking lot, I said I'll still give them a chance. I’m really that person who won’t go somewhere if parking is going to be an issue, it’s too much effort to be stressing about parking just to go have a meal.
