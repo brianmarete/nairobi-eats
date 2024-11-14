@@ -21,7 +21,7 @@ keywords:
     restaurants in gigiri,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Cotton Tree is another new Vietnamese restaurant located in Gigiri. It has such a beautiful outdoor setup, the decor is very boho chic. It has lots of greenery and space for kids to play in. So because of its popularity, you can’t be assured of space if you just walk in, you definitely need a reservation. I tried to call in the morning to make a reservation but no one answered the phone so I decided to just go and try my luck.

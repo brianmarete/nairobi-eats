@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 8am - 10pm"
 tags:
   ["Coffee Shop", "High Tea Nairobi", "Kilimani", "Nairobi Cafe", "nairobieats"]
-featured: true
+# featured: true
 ---
 
 Had a belated birthday dinner plan with a dear friend and she suggested we try out Cocoa Cafe located in Alta Towers, just opposite Yaya centre.

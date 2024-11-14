@@ -7,6 +7,7 @@ business_hours:
   - "Mon - Sun: 10am - 11pm"
 series: []
 tags: [nairobieats, Rooftop Bar, Unseen Cinema, Kilimani]
+featured: true
 ---
 
 A rooftop cinema, cafe AND bar, Unseen was a fantastic find and it’s become a place I visit often when I need a change of work scenery:)

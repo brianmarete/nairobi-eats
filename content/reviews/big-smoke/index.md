@@ -6,7 +6,7 @@ maps_query: BIG+SMOKE+KAREN
 business_hours:
   - "Mon - Sun: 7am - 11pm"
 tags: ["nairobieats", "Barbecue", "BBQ", "Nairobi Barbeque", "Brisket", "Karen"]
-featured: true
+# featured: true
 ---
 
 There was so much hype about this place, so I was a bit worried it wouldn’t match up but I actually had quite a pleasant time 🙃
