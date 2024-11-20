@@ -16,6 +16,7 @@ tags:
     Ghanaian Food,
     African Food,
   ]
+featured: true
 ---
 
 As always, I noticed the decor first. Love love the decor. There’s a particular velvet chair with roses on the back that I want in my living room but let me stop digressing sorry… (But if anyone knows who did their outfitting let me know please)

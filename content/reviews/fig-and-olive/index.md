@@ -23,7 +23,7 @@ keywords:
     brunch spots nairobi,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 We are in Tigoni today at the very picturesque Fig & Olive. It has such a nice, quaint farmhouse vibe, lots of bohemian decor and a very stunning vintage Ford Model A & VW Beetle right at the entrance. When you walk in you’ll be met by their retail store first which is fully stocked with unique home decor pieces, cool stationery and a variety of food products.

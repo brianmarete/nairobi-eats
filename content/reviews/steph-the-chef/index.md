@@ -5,7 +5,7 @@ draft: false
 maps_query: ""
 business_hours: []
 tags: ["nairobieats", "Cloud Kitchen", "Steph The Chef", "Brunch"]
-featured: true
+# featured: true
 ---
 
 I’ve been wanting to try anything from [Steph the Chef](https://www.instagram.com/_stephthechef_/) for ages! Finally, one fine Sunday, together with some friends, I finally got to try her brunch package.

@@ -9,6 +9,7 @@ business_hours:
   - "Wed - Sun: 8am - 10pm"
 series: []
 tags: [nairobieats]
+featured: true
 ---
 
 I visited Cultiva quite a while back, over a weekend and I have to say I thoroughly enjoyed the food. The service though… not quite. But let me speak on the food first. We were there for brunch but apparently brunch is only served till 11? Isn’t the whole point of brunch is that it’s a meal served from late morning to late afternoon? Most places doing brunch in Nairobi refuse to actually do proper brunch hours and I don’t get why.

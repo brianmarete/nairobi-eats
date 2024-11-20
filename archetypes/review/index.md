@@ -13,8 +13,15 @@ featured: true
 ---
 
 Here goes the main content.
+
 {{<image-gallery key="" titles="">}}
 
 ### Ratings
+
+Food: ⭐️⭐️⭐️<br>
+Service: ⭐️️⭐️⭐️<br>
+Ambience: ⭐⭐️⭐️<br>
+
+### Menu
 
 {{<remote-image-gallery key="">}}
