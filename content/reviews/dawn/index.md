@@ -20,7 +20,7 @@ keywords:
     happy hour nairobi,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Dawn is a cosy and intimate restaurant located in Kilimani, at the Loft Apartments. It’s not too big but also doesn’t feel cramped either. It has seating space both outdoors and inside, very simple decor with an emphasis on their wine selection so this is a place for wine lovers in particular.

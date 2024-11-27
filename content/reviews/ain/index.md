@@ -8,6 +8,7 @@ business_hours:
 series: []
 tags: [nairobieats]
 slug: "/ain-korean-restaurant"
+featured: true
 ---
 
 Lemme start by saying how hidden this place is! And when you find it you’ll be shocked at how you’ve never seen it before-hidden in plain sight. I was invited to a Korean bbq dinner by Njambi. She hosts group Korean dinners every two months and they vary from either the hotpot selection or Korean BBQ.
