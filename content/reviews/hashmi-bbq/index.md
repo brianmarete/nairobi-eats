@@ -40,7 +40,7 @@ slug: ""
 featured: true
 ---
 
-Hashmi’s is a staple in the Kenyan industry scene having been around since the early 2000s up until now. Y’all remember they shut down for a while and we thought it was forever and went there in droves only to have it open back up in a different building a few months later? That was smart marketing targeting customer loyalty.
+Hashmi’s is a staple in the Kenyan food industry scene having been around since the mid 1990s up until now. Y’all remember they shut down for a while and we thought it was forever and went there in droves only to have it open back up in a different building a few months later? That was smart marketing targeting customer loyalty.
 
 Hashmi’s BBQ is now located at Broadwalk Mall in Parklands and this is their biggest branch yet within Nairobi. They now have locations in Dubai and Mombasa as well.
 
