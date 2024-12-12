@@ -1,6 +1,6 @@
 ---
 date: 2024-12-11T15:03:01+03:00
-title: "Lichthaus"
+title: "Lichthaus - Watamu"
 draft: false
 maps_query: "Lichthaus+watamu"
 business_hours:
