@@ -6,7 +6,16 @@ maps_query: Silk+Noodles,+Nairobi,+Kenya
 business_hours:
   - "Mon - Sun: 7am - 9pm"
 series: []
-tags: ["nairobieats", "Silk Noodles", "Chinese Food", "Asian Food", "Chinese Restaurant", "Kilimani"]
+tags:
+  [
+    "nairobieats",
+    "Silk Noodles",
+    "Chinese Food",
+    "Asian Food",
+    "Chinese Restaurant",
+    "Kilimani",
+  ]
+featured: true
 ---
 
 Silk noodles is a Chinese restaurant located in the Shanshui hotel complex. It’s hard to miss it as there is a big sign right at the entrance. Ambience wise the place is nothing to write home about which is PERFECT because it means they’re putting all their focus on the food!
