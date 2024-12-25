@@ -17,6 +17,7 @@ tags:
     Karen Restaurants,
   ]
 slug: ""
+featured: true
 ---
 
 Cave à Manger is a branch of the Wine Box franchise that is a full on restaurant and not just somewhere for wine & tapas. Located on Karen Plains Rd, this place wasn’t the easiest to find - I think they need more signage in the compound they are in.

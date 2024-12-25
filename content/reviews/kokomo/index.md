@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Kokomo is a Lebanese-Mediterranean beach bar and restaurant located right by where I was staying so this was the first place I tried in Watamu. I went there at night so I didn’t get a full view of what it looks like during the day but I like the day beds they have overlooking the ocean, perfect for chilling and sundowners and the booths in the restaurant were quite comfy.

@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 7:30am - 6:30pm"
 tags:
   ["nairobieats", "Brunch", "Nairobi Cafe", "Coffee Shop", "ASL", "Lavington"]
-featured: true
+# featured: true
 ---
 
 Pallet cafe is located just opposite Lavington Green shopping mall, it has quite a small sign so be on the lookout for it so you don’t miss it.
