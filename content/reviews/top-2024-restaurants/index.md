@@ -1,7 +1,7 @@
 ---
 date: 2024-12-20T15:19:15+03:00
 title: "Top 2024 Restaurants"
-draft: true
+draft: false
 maps_query: ""
 business_hours:
   - ""
