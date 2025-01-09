@@ -9,6 +9,7 @@ business_hours:
   - "Thurs - Sun: 11am - 11:30pm"
 series: []
 tags: [nairobieats, BBQ, Happy Hour, Nairobi Restaurants]
+featured: true
 ---
 
 This beautiful rooftop garden restaurant is located in Westlands at Delta Towers. For those who remember it took up the space where Buddha Bad used to be. I haven’t been to peppertree in a very long time, probably in like four years now.

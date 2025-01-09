@@ -9,7 +9,7 @@ series: []
 tags: [nairobieats]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 type: list
 items:
   - title: "Jamrock ⭐️⭐️⭐️⭐️"
