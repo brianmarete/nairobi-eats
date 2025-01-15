@@ -21,7 +21,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 I love a good beach side restaurant and Papa Remo is just that with all the vibes to match It’s spacious with lovely coastal decor, comfortable lounge areas and a great central bar. The ocean breeze welcomes you as you walk in and head towards the tables on the beach (best seats in the house imho). The views my goodness!

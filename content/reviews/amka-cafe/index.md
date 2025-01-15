@@ -17,6 +17,7 @@ tags:
     Restaurants In Nairobi,
   ]
 slug: ""
+featured: true
 ---
 
 Amka cafe is a very vibrant cafe located at Delta towers westlands. What I wasn’t expecting was walking through a gym to get to it lol. So is it part of the gym? They’re just sharing a floor? It’s very confusing.
