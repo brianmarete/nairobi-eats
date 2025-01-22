@@ -1,25 +1,16 @@
 includeNewer: true
-threshold: 100
+threshold: 90
 toLower: false
 indices:
   - name: keywords
     applyFilter: false
-    cardinalityThreshold: 0
-    pattern: ""
-    toLower: false
-    type: basic
-    weight: 90
-  - name: date
-    applyFilter: false
-    cardinalityThreshold: 0
-    pattern: ""
-    toLower: false
-    type: basic
-    weight: 10
-  - name: tags
-    applyFilter: false
-    cardinalityThreshold: 0
     pattern: ""
     toLower: false
     type: basic
     weight: 100
+  - name: tags
+    applyFilter: false
+    pattern: ""
+    toLower: false
+    type: basic
+    weight: 90

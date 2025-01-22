@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Last but not least on the [#watamueats](/tags/watamueats/) series is Seafood Cafe. This roadside cafe is quite easy to find, it’s right by the main Watamu sign on Gede Road. It’s a simple restaurant with very little thought to decor and ambience though I did appreciate the graffiti murals on the walls. The place gives very much kibanda-esque vibes which I was happy because that means the food will be excellent
