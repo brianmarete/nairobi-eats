@@ -1,4 +1,5 @@
-{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+{{ $location := "summary" }} {{ $featured_image := partial
+"func/GetFeaturedImage.html" (dict "myVar" $location "context" .) }}
 <div class="relative w-100 mb4 bg-white nested-copy-line-height">
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     {{ if $featured_image }}

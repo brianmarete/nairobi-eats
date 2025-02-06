@@ -1,5 +1,6 @@
-{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
-<div class="relative mb4 nested-copy-line-height" style="width: 150px;">
+{{ $location := "summary" }} {{ $featured_image := partial
+"func/GetFeaturedImage.html" (dict "myVar" $location "context" .) }}
+<div class="relative mb4 nested-copy-line-height" style="width: 150px">
   <div class="mb3 pa2 gray overflow-hidden">
     {{ if $featured_image }}
     <a href="{{ .RelPermalink }}" class="link black dim">

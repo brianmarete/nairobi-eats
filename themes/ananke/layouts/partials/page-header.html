@@ -1,4 +1,5 @@
-{{ $featured_image := partial "func/GetFeaturedImage.html" . }}
+{{ $location := "header" }} {{ $featured_image := partial
+  "func/GetFeaturedImage.html" (dict "myVar" $location "context" .) }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   <header class="cover bg-top" style="background: url('{{ $featured_image }}') center center / cover no-repeat;">
