@@ -14,7 +14,7 @@ tags:
     "Nairobi Cafe",
     "Westlands",
   ]
-featured: true
+# featured: true
 ---
 
 If you’ve seen the video of the cheesecake with syrup being poured all over it then you know about Biscotti Cafe. Located in the Westlands Eatery Strip Mall, Biscotti Cafe is a cute little cafe that is very inviting from aesthetics alone.

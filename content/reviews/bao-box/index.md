@@ -8,7 +8,7 @@ business_hours:
   - "Mon: 8am - 10pm"
   - "Tue - Sun: 8am - 11pm"
 tags: ["nairobieats", "Bao Box", "Games", "Boardgames", "Westlands"]
-featured: true
+# featured: true
 ---
 
 I finally got to check out the newly redone Bao Box after what seems like very many years since I was last at the original Bao Box. It’s located on General Mathenge Drive in quite an expansive compound. The entrance is a nice little arch pathway covered in lights leading you into the reception area where you’re welcomed by the hostess and a nice neon sign blazing the words ‘welcome to the jungle’… okay theme!😄

@@ -8,7 +8,7 @@ business_hours:
 series: []
 tags: [nairobieats, japanese food, lavington, asian food, date night spots]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Tokyo is a Japanese restaurant located in the Lavington area. It’s such a nice spacious place with both indoor and outdoor seating surrounded by lush greenery. Came here for dinner on a weekday so it wasn’t super packed which is usually what I prefer. I found it odd that they had so many signs up about their last order times, like around each corner of the restaurant You can never say you didn’t know that they take their last orders at 9pm and close at 10pm lol.
@@ -40,5 +40,3 @@ Service: ⭐️️⭐️⭐️<br>
 Ambience: ⭐⭐️⭐️⭐️<br>
 
 ### Menu
-
-{{<remote-image-gallery key="tokyo-menu">}}
