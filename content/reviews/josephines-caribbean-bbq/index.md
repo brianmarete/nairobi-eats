@@ -7,6 +7,7 @@ business_hours:
   - "Mon - Sun: 10am - 10pm"
 series: []
 tags: [nairobieats, Barbeque, BBQ]
+featured: true
 ---
 
 I’ve been here a few times and I always have a fabulous time. The food y’all... the food is so good! The owner told us to try a little bit of everything so we went for the platter which includes BBQ ribs, jerk chicken, lamb sausages, osso bucco, rice and beans, plantains, sweet potatoes, red slaw and grilled veggies.

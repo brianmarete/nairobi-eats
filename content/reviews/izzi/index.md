@@ -8,6 +8,7 @@ business_hours:
 series: []
 tags: [nairobieats, Brunch, Nairobi Cafe, Coffee Shop, Izzi]
 slug: "/izzi-brunch-and-cake"
+featured: true
 ---
 
 This is a place so many of you have asked me to visit for time! I decided to take my time going here to give them time to settle in because I’ve had many disappointments when visiting restaurants when they’re brand new.
@@ -29,7 +30,6 @@ I’m not going to rain on their parade if truly that’s their signature style 
 I haven’t had anything else at Izze since this brunch but I’d like to go try their lunch & dinner dishes. That pasta in the cheese wheel thing everyone’s always posting looks fun, I hope it tastes good though. My friend also got a mojito (KSH500) as a takeaway and she enjoyed it a lot. I like their takeaway cups, cute and practical - zero spills!
 
 Meh pancakes aside - the service here was good, the waiters were attentive and would check in often (someone please tell Geco👀) and the place has a nice chill ambience to it, I can see why it’s so popular. Whether their food is worth the fancy ambience though is yet to be decided, because so far… I’m not impressed. If you’re going to have the word brunch in your restaurant name you need to make sure your brunch options are exceptional is all I’m saying.
-
 
 ### Ratings
 
