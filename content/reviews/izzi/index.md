@@ -8,7 +8,7 @@ business_hours:
 series: []
 tags: [nairobieats, Brunch, Nairobi Cafe, Coffee Shop, Izzi]
 slug: "/izzi-brunch-and-cake"
-featured: true
+# featured: true
 ---
 
 This is a place so many of you have asked me to visit for time! I decided to take my time going here to give them time to settle in because I’ve had many disappointments when visiting restaurants when they’re brand new.

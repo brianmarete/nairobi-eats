@@ -16,7 +16,7 @@ tags:
     desserts nairobi,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Late last year I got introduced to this vegan ice cream at a friend’s exhibition show and I loved it so much that Joshua (the proprietor) offered to send me a sample pack to try some of the other flavours he makes. Yes makes. He makes all this ice cream from scratch by himself!

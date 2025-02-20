@@ -15,6 +15,7 @@ tags:
     "Sarit Centre",
     "Westlands",
   ]
+featured: true
 ---
 
 A Mexican restaurant after my own heart! Fonda used to be located at the Rosslyn Riviera Mall and I really loved that location because of how much space it had. Luckily they didn’t close down completely and just moved to the rooftop food court at Sarit centre.
