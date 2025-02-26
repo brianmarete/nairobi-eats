@@ -1,6 +1,5 @@
 ---
 date: 2024-01-19T10:45:16+03:00
-# date: 2024-05-28T10:45:16+03:00
 title: "Funky Monkey - Diani"
 draft: false
 maps_query: "Funky+Monkey+Cocktail+Bar+%26+Restaurant+Diani"
