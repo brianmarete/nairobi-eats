@@ -2,13 +2,13 @@
 date: 2024-01-18T19:37:04+03:00
 title: "Capetown Fish Market - Zanzibar"
 draft: false
-# featured: true
 maps_query: "Cape+Town+Fish+Market+Zanzibar"
 series: ["traveleats"]
 business_hours:
   - "Mon - Sun: 9am - 11pm"
 tags:
   ["nairobieats", "zanzieats", "Seafood", "Zanzibar", "Cape Town Fish Market"]
+# featured: true
 ---
 
 I went to Zanzibar for work so of course I ate a bunch while I was there. Mostly hotel food though. One place I did visit that I would like to review is Cape Town Fish Market Zanzibar.

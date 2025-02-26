@@ -19,6 +19,7 @@ tags:
     Restaurants In Negril,
   ]
 slug: ""
+featured: true
 ---
 
 On the very first day landing in Negril we were famished and luckily this place was very close to our hotel - literally a 5 minute walk. It was also one of the places I had noted down while doing research for this trip as it came highly recommended in many travel groups.

@@ -21,7 +21,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: "/270°-Rooftop"
-featured: true
+# featured: true
 ---
 
 The rooftop culture in Nairobi is really growing and I’m here for all of it, I love a good rooftop hang. The 270° rooftop is a restaurant located on the 18th floor of the Escada building along Lantana road. Being on the 18th floor already is quite high up so you can imagine the views you’ll see up there.
