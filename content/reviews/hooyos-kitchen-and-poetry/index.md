@@ -1,6 +1,6 @@
 ---
 date: 2025-02-26T13:46:27+03:00
-title: "Hooyos Kitchen & Pottery"
+title: "Hooyos Kitchen & Poetry"
 draft: false
 maps_query: "Hooyos+Kitchen+%26+Poetry,+Nairobi"
 business_hours:
