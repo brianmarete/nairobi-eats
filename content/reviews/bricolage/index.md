@@ -1,5 +1,4 @@
 ---
-# date: 2024-01-25T12:30:43+03:00
 date: 2024-01-26T09:28:52+03:00
 title: "Bricolage - New York"
 draft: false
@@ -15,6 +14,7 @@ business_hours:
   - "Sun: 11am - 3:30pm"
   - "Sun: 5pm - 9:30pm"
 tags: [nairobieats, nyeats, New York]
+featured: true
 ---
 
 New York is a foodie’s haven and I love trying out so many new restaurants whenever I’m there. During my last visit I went to a couple and this was the first one I documented. I went to dinner here with my cousin who lives in Brooklyn and swears by this place so I had to try it.

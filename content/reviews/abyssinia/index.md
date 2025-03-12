@@ -8,7 +8,7 @@ business_hours:
 series: []
 tags: [nairobieats, Ethiopian Food, Ethiopian Cuisine, Restaurants In Nairobi]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Taking a trip to Ethiopia today by way of Abyssinia🇪🇹 The only Ethiopian restaurant I frequent often is Habesha so this was a nice new experience. I was at the Westlands branch for dinner with some friends. They have quite a cozy setup, both indoors and outdoors and the owner, Mikias was around and gave us a warm welcome telling us the story of how the family run business came to be.
