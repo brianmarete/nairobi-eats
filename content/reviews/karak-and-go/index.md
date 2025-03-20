@@ -23,7 +23,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 I saw a reel somewhere that said Nairobi is being dominated by 3 things: Matcha, Padel and that run club They’re not wrong! If you haven’t tried the very famous Karak & Go vanilla Matcha latte then I applaud you for not giving into peer pressure. But also - where are you hiding?
