@@ -22,7 +22,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Hemingways Eden is a boutique hotel located deep in the heart of Karen. Like really deep in Karen, if you don’t live in or near the Karen environs just put aside a good 40min to drive there. Once the roadtrip is done though, you are welcomed into a most serene space! The hotel’s restaurant, the Deck, is perfectly positioned next to a lagoon and borders the Giraffe Sanctuary forest, giving it such a picturesque view. You are surrounded by lush greenery all round, the sound of the water is so calming and rustic yet luxurious setup of the dining area really makes you feel like you’re not in the hustle and bustle of Nairobi anymore.
