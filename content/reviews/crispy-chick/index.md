@@ -6,7 +6,7 @@ maps_query: ""
 business_hours:
   - "Mon - Sun: 10am - 9pm"
 tags: [nairobieats, Cloud Kitchen, Crispy Chicken]
-featured: true
+# featured: true
 ---
 
 There’s so many eateries popping up every other week, it’s so hard to keep up with all of them. One place though that’s only been in business for just a few months is already making a mark in the industry - a super crispy mark at that.

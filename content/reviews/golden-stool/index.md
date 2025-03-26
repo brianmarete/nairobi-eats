@@ -1,5 +1,4 @@
 ---
-# date: 2024-03-13T22:17:31+03:00
 date: 2024-01-25T12:30:43+03:00
 title: "Golden Stool Kitchen & Bar"
 draft: false
