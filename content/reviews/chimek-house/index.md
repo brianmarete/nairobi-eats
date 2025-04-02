@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 This place was formerly the Tortuga Rum Bar (not sure what happened to them) and now it’s a Korean restaurant and bar. Located on riverside lane, Chimek House looks pretty chill and nice for a Saturday afternoon. They didn’t change up the decor as much and no one uses the pool still (including us).

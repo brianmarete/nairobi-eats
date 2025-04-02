@@ -9,7 +9,7 @@ business_hours:
 series: []
 tags: [nairobieats, Kez Kitchen, Panko Wings, Restaurants In Nairobi]
 slug: "kez-organics"
-featured: true
+# featured: true
 ---
 
 It’s quite a hidden gem, literally lol, tucked away on Lenana Rd, follow the Google maps diligently or you’ll miss the turning like I did. I had a dinner plan with a friend and we decided to try this place thanks to all the good things I’ve heard from many people.
