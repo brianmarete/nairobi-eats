@@ -17,7 +17,7 @@ tags:
     Restaurants In Ocho Rios,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 We are in Ocho Rios today🇯🇲 Miss T’s Kitchen came highly recommended from the internets so I was excited to finally try it out. It’s such a vibrant place with so much colour and a little playground right at the entrance😊
