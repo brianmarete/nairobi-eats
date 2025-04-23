@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 8:30am - 9pm"
 series: ["traveleats"]
 tags: [nairobieats, tigonieats, Tigoni]
-featured: true
+# featured: true
 ---
 
 Another day, another great gem discovered in Tigoni. Tunahama Tigoni ama? It seems to be the new Naivasha and I’m not mad at it😊 Heard about Nifty many months ago from my cousin and I always wanted to go but just never had the time until December of last year.

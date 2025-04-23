@@ -1,6 +1,5 @@
 ---
 date: 2024-02-16T15:12:37+03:00
-# date: 2024-05-18T13:58:50+03:00
 title: "Red Ginger"
 draft: false
 maps_query: "Red+Ginger+Nairobi"
@@ -8,6 +7,7 @@ business_hours:
   - "Mon - Sun: 11am - 11pm"
 series: []
 tags: [nairobieats, Indian Food, Parklands]
+featured: true
 ---
 
 First of all, this place is so massive! It feels like a mall that has just one restaurant and it gets crazy packed - so make reservations beforehand if you can. They have an expansive menu filled with traditional Indian dishes, Indian bbq and oriental dishes as well.

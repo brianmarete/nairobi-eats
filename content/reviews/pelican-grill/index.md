@@ -17,6 +17,7 @@ tags:
     Jerk Chicken,
   ]
 slug: ""
+featured: true
 ---
 
 Starting the Jamaican series today is the Pelican Grill that is located right on the Hip Strip of Montego Bay, overlooking the sea. It’s a family owned restaurant that’s been in business since 1964, serving up authentic Jamaican food. We came here for dinner on a Saturday night and didn’t find it too packed, which is nice. The decor feels very classic diner like, nice cosy booths with lots of room for big or small groups.

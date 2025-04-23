@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 10am - 11pm"
 series: []
 tags: [nairobieats, Fine Dining Nairobi, Seafood, Nairobi Restaurants]
-featured: true
+# featured: true
 ---
 
 This place has been hyped for so long I was really wary of going to visit. I went there for lunch on a Sunday afternoon and for a place that is that popular it was quite empty at the time (1pm) which I didn’t mind.
