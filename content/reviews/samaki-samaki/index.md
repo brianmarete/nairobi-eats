@@ -1,6 +1,5 @@
 ---
 date: 2024-02-16T15:12:49+03:00
-# date: 2024-05-19T13:58:50+03:00
 title: "Samaki Samaki Seafood & Jazz"
 draft: false
 maps_query: "Samaki+Samaki+Seafood+and+Jazz,+Nairobi+Kenya"
@@ -8,6 +7,7 @@ business_hours:
   - "Mon - Sun: 7am - 5am"
 series: []
 tags: [nairobieats, Seafood, Jazz, Kileleshwa]
+featured: true
 ---
 
 It's been a while since I’ve been here so I’m going off of memory. 1st of all - I must comment on decor… It’s a really well-outfitted place, feels very by the ocean without the ocean. The daybed section kwanza, top notch… I don’t know if they still have it but if they do, that’s the best section to sit at.

@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Talisman is a beautiful restaurant located in Karen. It’s been around for as long as I can remember, I actually can’t recall a time when Talisman didn't exist. What started out as a small family restaurant back in the 90s has since grown into one of the most iconic restaurants in this city.
