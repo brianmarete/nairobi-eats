@@ -8,6 +8,7 @@ business_hours:
 series:
   - "Ando Foods"
 tags: ["nairobieats", "Cloud Kitchen", "Ando Foods", "Thai Food"]
+featured: true
 ---
 
 Talking about another cloud kitchen turned dine-in restaurant today! Siam Thai Kitchen is one of 7 brands under the [Ando Foods](https://twitter.com/andokitchens) umbrella and I love that their family just keeps getting bigger and bigger! (Still waiting on that dessert brand👀)

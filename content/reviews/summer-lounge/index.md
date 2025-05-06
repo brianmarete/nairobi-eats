@@ -19,7 +19,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 The Summer Lounge is a fairly new establishment in Nairobi’s food scene. It’s the sister restaurant to The Spring Noshery and is located at Sarit Centre, Westlands. It’s quite a stunning restaurant, they really said we’ll give you ALL the summer vibes.

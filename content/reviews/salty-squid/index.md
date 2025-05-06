@@ -7,7 +7,7 @@ series: ["traveleats"]
 business_hours:
   - "Mon - Sun: 7:30am - 10pm"
 tags: ["nairobieats", "dianieats", "Seafood", "Diani", "Casual Dining"]
-featured: true
+# featured: true
 ---
 
 This is one of my favourite places to eat at in Diani, I’m surprised it’s taken me so long to write about it! Also - fun fact, it’s a sister restaurant to Funky Monkey, didn’t know that until just the other day😄.
