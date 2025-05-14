@@ -8,6 +8,7 @@ business_hours:
 series: ["traveleats"]
 tags:
   ["nairobieats", "kigalieats", "Asian Food", "Kigali", "Rwanda", "Fine Dining"]
+featured: true
 ---
 
 Upon asking around for places to eat in Kigali, Soy was one that was mentioned multiple times. This restaurant is so beautiful. The ambience can be felt from the moment you step out into the driveway and are greeted by the big SOY sign emblazoned on a stunning cobblestone wall. The interior/exterior because it’s an outdoor restaurant that feels very indoor is just as inviting with its sea blue walls adorned with hanging plants and warm lighting at each corner making it feel like an oasis of sorts.
