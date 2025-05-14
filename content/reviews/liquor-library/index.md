@@ -23,7 +23,7 @@ slug: ""
 featured: true
 ---
 
-The liquor library is located in the lush Tigoni neighbourhood, just about a 45min from Nairobi. First thing to note - they need better signage. It really took us forever to find the right turn to get here because there’s no signage on the main road right up until you drive into the compound… not very useful even for a ‘hidden gem’.
+The Liquor Library is located in the lush Tigoni neighbourhood, just about a 45min from Nairobi. First thing to note - they need better signage. It really took us forever to find the right turn to get here because there’s no signage on the main road right up until you drive into the compound… not very useful even for a ‘hidden gem’.
 
 That aside - the place is set in a beautiful landscape overlooking a stunning tea farm. One thing about the Limuru area, you’re gonna get some views! It’s all outdoor seating with plenty of spots for picnics and chilling. We were here on a Sunday afternoon and it only started getting filled up with people at sunset hour as we were getting ready to leave. So it looks like people come here around 5/6pm for sundowners as opposed to earlier in the afternoon for lunch.
 
@@ -33,7 +33,7 @@ There is no physical or scanning menu - why? I have no clue. I tried to look it 
 
 The waiter just told us what they have ready in the kitchen and that’s what we ordered i.e. dry fry pork, wet fry pork and goat, grilled chicken, mukimo, ugali, pilau, sukuma na sauté potatoes/chips. Can’t recall the prices of anything here, apologies, but this is why a physical menu is important.
 
-For drinks - which is the liquor library’s selling point, there is also no physical menu, you have to walk up to the main house where the bar is and order all drinks from there. I found that quite inconvenient.
+For drinks - which is the Liquor Library’s selling point, there is also no physical menu, you have to walk up to the main house where the bar is and order all drinks from there. I found that quite inconvenient.
 
 The food was just okay, it’s just typical food from your local joint, in fact I think what I liked most was the pilau. The dry pork was too dry, very little flavour. Service was slow but we were also a big group so our waiter really tried his best.
 
