@@ -1,6 +1,6 @@
 ---
 date: 2025-05-14T22:38:51+03:00
-title: "The Liquor Library"
+title: "The Liquor Library - Tigoni"
 draft: false
 maps_query: "Liquor+Library+Tigoni,+Liquor+library+Tigoni"
 business_hours:
