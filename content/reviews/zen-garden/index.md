@@ -25,7 +25,7 @@ Zen garden is a scenic restaurant located in the lush Spring Valley neighbourhoo
 
 They have a most beautiful garden with stunning florals, gigantic succulents that line up the pathways and vibrant pockets of hydrangeas that add pops of colour amongst the greenery.
 
-{{<image-gallery key="zen-garden" titles="zen-garden-07 zen-garden-06 zen-garden-02 zen-garden-04">}}
+{{<image-gallery key="zen-garden" titles="zen-garden-07 zen-garden-06 zen-garden-04">}}
 
 They have an indoor and outdoor setup so you can choose to have something small and intimate inside or something casual out on the terrace or a grand dinner out on the terrace too. Zen Garden has some of the most stunning roses I’ve ever seen and how they display them makes the place come alive even more. There’s huge vases with tall stems of roses which they change on a daily basis, and they have cute mini oriental style vases on the tables with a mix of pre-cut rose buds and blooms of whatever colour theme they choose to go with for the day. Stunning! The garden makes for a great event space and photo backdrop for my IG girlies.
 
