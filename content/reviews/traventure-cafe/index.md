@@ -19,7 +19,7 @@ tags:
     Traventure Cafe,
   ]
 slug: ""
-# featured: true
+featured: true
 ---
 
 Located in the leafy suburbs of Gigiri, Traventure cafe feels very welcoming from the onset and I think that’s mostly because it was someone’s home before. You get into the lobby/living room area and you’re immediately drawn to the back garden where the majority of the restaurant sits.

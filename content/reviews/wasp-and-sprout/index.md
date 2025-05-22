@@ -1,5 +1,4 @@
 ---
-# date: 2024-04-04T10:57:16+03:00
 date: 2024-01-18T23:19:43+03:00
 title: "Wasp and Sprout"
 draft: false
@@ -17,6 +16,7 @@ tags:
     Nairobi Cafe,
     Nairobi Brunch,
   ]
+featured: true
 ---
 
 Today’s review is coming from deep in Loresho, at a nice little family run cafe. Wasp & Sprout has been around for quite a long time but I’ve never visited before. Mostly because years ago they had this thing about closing at 2pm on Sundays which I found odd because why offer brunch if you’re gonna close that early? So that put me off going there but now they’ve extended their hours and their menu has also expanded quite a bit too.

@@ -6,7 +6,7 @@ maps_query: "SNO+Cream"
 business_hours:
   - "Mon - Sun: 7am - 10pm"
 tags: ["nairobieats", "Ice Cream", "Dessert", "Nairobi CBD"]
-featured: true
+# featured: true
 ---
 
 If you have not been to Sno Cream and you are born and raised in Nairobi, I need you to go there now. Like right now. Just close that laptop and head over there so you can understand and the classic Sno Cream experience.
