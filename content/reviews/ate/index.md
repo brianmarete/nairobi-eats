@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 ạtė is an intimate fine dining restaurant located along Kyuna Crescent in Westlands. Founded in 2019, this restaurant is a mix of charm and elegance with a touch of eclectic vibes all the while taking you on a most interesting culinary journey.

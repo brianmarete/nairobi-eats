@@ -4,6 +4,7 @@ title: The Wine and Bottle Grille
 draft: false
 maps_query: The+wine+and+bottle+grill,+Nairobi,+Kenya
 tags: ["nairobieats", "Wine and Bottle", "Happy Hour", "Fishbowls", "Westlands"]
+featured: true
 ---
 
 This bar & grill is located in Westlands, in Ambience mall. It has two floors, the ground floor has an outdoor section which I think is more of the dining area, it’s set up is quite different from the upper floor. Inside the restaurant though (still on ground floor) just has the kitchen and yes seating but it was so empty - from the time I arrived (3pm) to the time I was leaving (9pm), there was barely anyone sitting down there so I guess people prefer the outside area and the upper area.
