@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Tokyo Drift is a Japanese izakaya restaurant meaning a kind of tavern/casual bar that serves hand-crafted drinks and small plates much like the Spanish tapas style of dining. It focuses more on the social aspect of dining and the meals here are inspired by the night life and street food in Japan.

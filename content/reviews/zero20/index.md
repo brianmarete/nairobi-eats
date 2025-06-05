@@ -6,7 +6,7 @@ maps_query: "Zero20+Restaurant+%26+Lounge+Kitisuru"
 business_hours:
   - "Mon - Sun: 9am - 12am"
 tags: ["nairobieats", "Zero20", "Kitisuru", "Fine Dining"]
-featured: true
+# featured: true
 ---
 
 Located a few feet away from the Ankole restaurant in Kitisuru,, Zero20 is a fairly new restaurant, and it’s quite a big establishment. They have a fine dining section on the inside and a more casual dining section in the back area.

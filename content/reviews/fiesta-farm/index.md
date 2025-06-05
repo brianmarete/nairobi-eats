@@ -19,7 +19,7 @@ tags:
     Sunday Lunch,
   ]
 slug: ""
-# featured: true
+featured: true
 ---
 
 Fiesta Farm is located in the heart of Hardy, Karen. It’s quite a drive so prepare yourself accordingly in terms of time. The restaurant is set up on a vast compound which I assume also has the farm it’s named after. Loved the large amount of green space that people can use to chill in the sun, kids to play in… perfect for a sunny Sunday out.
