@@ -18,7 +18,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 This cozy outdoor restaurant set in the heart of Riverside is a place I’ve been meaning to visit for years!! Literal years and I finally got to go this year and was very excited about it Amani ya juu is actually the name of the gift shop in the same compound and Amani Garden cafe is the cafe’s actual name. But most people know it as Amani ya juu meaning peace from above.
