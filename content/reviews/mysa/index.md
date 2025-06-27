@@ -21,7 +21,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 This place was a surprising find as I thought I was heading to Mythos - the Greek restaurant, only to find out that it was actually Mysa (confused the names lol). Located in the Gigiri lifestyle courtyard, Mysa doesn’t come across as a fine dining restaurant at first glance but once you sit down and get a feel of the place and the [menu](#menu)… you can tell it’s not just a casual setup.

@@ -18,7 +18,7 @@ tags:
     Open House,
   ]
 slug: ""
-# featured: true
+featured: true
 ---
 
 Open House is a very traditional family style restaurant. This was my first time visiting even though I know it’s been in existence in Nairobi for ages! I went to the Karen branch which is located at the crossroads shopping centre. I loved the homey ambience you feel when you walk in, it feels like you’ve walked into someone’s (very grand) but very comfortable dining room. The waiter was quick to get us a table and give us a breakdown of the menu since we wanted to try a bit of everything!

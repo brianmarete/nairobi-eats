@@ -8,7 +8,7 @@ business_hours:
   - "Sun - Thurs: 7:30am - 11pm"
   - "Fri - Sat: 7:30am - 12am"
 tags: ["nairobieats", "dianieats", "Seafood", "Diani", "Casual Dining"]
-# featured: true
+featured: true
 ---
 
 Funky Monkey is a nice little spot along Diani beach road. I’ve been to Diani many times but I have never been here so I was very excited to have lunch here.
