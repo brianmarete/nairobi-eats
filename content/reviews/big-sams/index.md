@@ -18,7 +18,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: "/big-sams-patisserie-chocolaterie"
-featured: true
+# featured: true
 ---
 
 Big Sam’s Pâtisserie is an artisan dessert studio known for its elegant pastries, handcrafts chocolates, chunky and yummy cookies and mousse cakes. Founded by Sam Ayany, an internationally trained pastry chef whose love for dessert has him bringing in a blend of French technique and global flavours with a Kenyan twist to his decadent desserts.
