@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Joto Ramen is the new kid on the block in regards to Ramen spots and I was glad when they finally got a standalone location at the Alchemist because I kept missing their pop-ups! Also, I did not know the alchemist had that much space because Joto Ramen is quite spacious - it opens out at the back of alchemist with lots of seating and the floating red lanterns create a fun vibe be it day or night.
