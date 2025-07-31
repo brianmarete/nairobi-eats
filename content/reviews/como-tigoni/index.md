@@ -7,7 +7,7 @@ business_hours:
   - "Wed - Sun: 12pm - 9pm"
 series: ["traveleats"]
 tags: [nairobieats, tigonieats, restaurants in tigoni]
-featured: true
+# featured: true
 ---
 
 Last December saw the great migration of Nairobians into Tigoni to experience the newest restaurant in that area - Como. Como made a splash in the food scene late last year and people were even more excited to find out that it is a restaurant by popular fine dining chef, Steph the Chef. If you’ve had her food when she was still doing deliveries only then you know she will give you quite an experience at her very chic eatery in beautiful Tigoni.

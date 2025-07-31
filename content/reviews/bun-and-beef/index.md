@@ -18,7 +18,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 So I don’t find myself in Village market often but on the rare chance that I am, I make time to try out a new eatery there. On my last visit I decided to try out Bun & Beef which came quite highly recommended from a couple people.
