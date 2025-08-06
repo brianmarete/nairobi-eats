@@ -9,7 +9,7 @@ business_hours:
   - "Sun: Closed"
 series: []
 tags: [nairobieats, Lebanese Food, Fine Dining, Westlands]
-# featured: true
+featured: true
 ---
 
 I had heard such mixed reviews of this restaurant but I still went ahead to try it & it’s quickly become a place I love so much! Beautiful beautiful place. It’s not outfitted to be Instagram worthy with too many aesthetics, but it still gives off an almost exotic ambience, it really feels like you’re in a whole different place when you enter there. It has elements of Swahili/Arab theme decor and the courtyard is so softly lit giving cosy vibes. I highly recommend this for a date night location.

@@ -9,3 +9,8 @@ Do the following:
 1. Make sure image path names and titles in gallery.json match asset names in cloudflare
 2. Delete /resources/images folder
 3. Run hugo server --gc
+
+#### How to make links in Hugo
+
+Example:
+[Ayeyo]({{< relref "/ayeyo">}})

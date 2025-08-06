@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 8am - 11pm"
 series: []
 tags: [nairobieats, Kilimani]
-# featured: true
+featured: true
 ---
 
 The sun last week was so glorious, it prompted me to step out for lunch at Mezza. They are located at the new shopping complex on Rose Avenue, Kilimani, right at the top giving it a perfect rooftop vibe for a sunny day.

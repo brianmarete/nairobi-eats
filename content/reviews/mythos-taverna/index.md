@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 This new bombshell in the restaurant scene has been turning heads with every pic posted and every reel shared. Mythos is located at Mwanzi Market, Westlands and lemme just say… I haven’t seen a restaurant that aesthetically pleasing in quite some time.
