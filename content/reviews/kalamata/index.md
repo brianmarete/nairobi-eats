@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Kalamata (named after the Greek Kalamata olive) is one of Nairobi’s go-to spots for alfresco dining. It’s located in Lavington and is also another well outfitted establishment. They have both indoor and outdoor sitting with pockets of cozy corners for a casual setting and more intimate table settings indoors for a more formal vibe.

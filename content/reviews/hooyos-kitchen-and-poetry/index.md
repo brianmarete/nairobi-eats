@@ -19,7 +19,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-# featured: true
+featured: true
 ---
 
 Hooyos is a nice and spacious cafe along Dennis Pritt road. There’s lots of greenery both inside and on the outdoors, lots of seating space and I love the big windows which bring in so much natural light into the space. Being a Somali establishment, the menu boasts lots of Somali cuisine plus continental breakfast items and typical menu items you find in most menus. Of course it goes without saying that this place is halal.

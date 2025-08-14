@@ -22,7 +22,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-# featured: true
+featured: true
 ---
 
 This fine dining restaurant is located at Galana plaza in the heart of Kilimani. It’s a French cuisine restaurant with an additional African flare to all their dishes. A hostess meets you at the door when you enter to direct you to your table. I found the place quite inviting - warm lighting, ambient music and well spaced seating so it doesn’t look too cramped.
