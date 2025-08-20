@@ -12,7 +12,6 @@ tags:
   [
     nairobieats,
     restaurant review,
-    joto ramen,
     japanese cuisine,
     japanese restaurants in nairobi,
     ramen spots nairobi,
