@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Umami street is located in Lavington but is quite tricky to find since they didn’t have any signage leading to it. They need to fix that. When you do eventually find it, it’s located in such a pretty compound! So bright and green and it looks even more stunning when the sun is out and the cherry blossoms peep out of the perfect hedges!
@@ -29,7 +29,7 @@ Umami street is located in Lavington but is quite tricky to find since they didn
 
 I came here for lunch with a few friends and since some of us had just come from Japan, it made sense to come try some Japanese street food so they can tell us how legit it is.
 
-They have a very small menu as they only have street food dishes/bitings and drinks but they are in collaboration with Joto Ramen and Himiko Matcha who are also in the same compound so we were able to order from them as well.
+They have a very small menu as they only have street food dishes/bitings and drinks but they are in collaboration with [Joto Ramen]({{< relref "/joto-ramen">}}) and Himiko Matcha who are also in the same compound so we were able to order from them as well.
 
 I tasted a bit of the strawberry matcha (KSH800) just to see if I could stomach it… definitely could NOT. It still tasted like grass even with the addition of strawberry syrup in it lol.
 
