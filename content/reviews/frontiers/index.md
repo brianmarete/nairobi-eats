@@ -5,7 +5,7 @@ draft: false
 maps_query: "Frontiers+Coffee+Bar+%26+Restaurant,+Onestop+Nanyuki,+Nanyuki"
 business_hours:
   - "Mon - Sun: 6:30am - 9pm"
-series: []
+series: ["traveleats"]
 tags:
   [
     nairobieats,
