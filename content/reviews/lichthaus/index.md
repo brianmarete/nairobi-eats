@@ -31,7 +31,7 @@ keywords:
     restaurant review,
   ]
 slug: ""
-# featured: true
+featured: true
 ---
 
 We are finally getting into the Watamu series! Starting the series with the very popular Lichthaus restaurant that is located by Mida Creek Watamu. We’ve all seen the nets, we’ve all wanted a picture while sitting on those nets, we’ve all wanted to watch the sunset while sipping cocktails on those nets… what we didn’t know was the process of getting on those nets…
