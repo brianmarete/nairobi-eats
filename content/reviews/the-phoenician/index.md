@@ -1,6 +1,6 @@
 ---
 date: 2025-10-01T21:28:36+03:00
-title: "The Phonecian"
+title: "The Phoenician"
 draft: false
 maps_query: "The+Phoenician+Restaurant,+Matundu+Lane,+Nairobi"
 business_hours:
