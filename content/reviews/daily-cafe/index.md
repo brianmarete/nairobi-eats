@@ -1,6 +1,5 @@
 ---
 date: 2024-02-15T08:08:30+03:00
-# date: 2024-06-05T12:47:45+03:00
 title: "The Daily Café & Bistro"
 draft: false
 maps_query: "The+Daily+Café+and+Bistro+-+Argwings+Kodhek+Rd"
@@ -10,6 +9,7 @@ business_hours:
   - "Sun: 9am - 6pm"
 series: []
 tags: ["nairobieats"]
+featured: true
 ---
 
 I visited their Hurlingham branch at Doctor’s Plaza but they also have branches in Gigiri at the Gigiri Craft Centre and at Sarit Centre. It’s a really cute spot, their decor is A1. They have quite an extensive menu, with breakfast all day! I had waffles and a side of bacon, which came with some fruit & way too little whipped cream… why was it just a drop of cream?? I liked my meal but would have liked a better serving of whipped cream.

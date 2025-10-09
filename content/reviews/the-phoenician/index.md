@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 The Phoenician has really stood the test of time in Nairobi, having served an eclectic mix of Japanese and Lebanese for over 20 years now! Nestled in a leafy corner of Brookside in Westlands, the Phoenician is a very beautiful space, transporting you to a space of zen and tranquility from the moment you walk in.
