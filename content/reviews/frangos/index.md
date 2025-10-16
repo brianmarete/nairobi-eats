@@ -9,7 +9,7 @@ business_hours:
 series: []
 tags: [nairobieats, Frangos, Happy Hour, Portuguese Food, Nairobi Restaurants]
 slug: "/frangos-bar-and-churrasquiera"
-# featured: true
+featured: true
 ---
 
 Frangos is a Portuguese style restaurant, their focus being their chicken. I had the lemon & herb half chicken which comes with two sides of your choice, I had coleslaw and corn on the cob. Loved the chicken, very moist, very flavourful, and the corn had a nice chilli added to it as well. The coleslaw was just average. My friend had the rice option as a side which I tried and really liked how well spiced it is.

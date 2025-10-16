@@ -9,7 +9,7 @@ business_hours:
   - "Sun: 9am - 6pm"
 series: []
 tags: ["nairobieats"]
-featured: true
+# featured: true
 ---
 
 I visited their Hurlingham branch at Doctor’s Plaza but they also have branches in Gigiri at the Gigiri Craft Centre and at Sarit Centre. It’s a really cute spot, their decor is A1. They have quite an extensive menu, with breakfast all day! I had waffles and a side of bacon, which came with some fruit & way too little whipped cream… why was it just a drop of cream?? I liked my meal but would have liked a better serving of whipped cream.

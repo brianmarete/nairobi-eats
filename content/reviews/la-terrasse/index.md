@@ -21,7 +21,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Today we’re in the heart of Karen at La Terrasse, another Vietnamese restaurant in Nairobi. I love that there’s a good variety of these to choose from nowadays.
