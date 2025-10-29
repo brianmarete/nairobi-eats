@@ -19,7 +19,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 I finally got to try the famous Uncle Nene’s burgers and I went all the way to their Garden Estate branch to get the full experience! For those who haven’t been and don’t live near that area, just be prepared for quite a drive.

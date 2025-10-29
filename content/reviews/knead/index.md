@@ -16,7 +16,7 @@ tags:
     "Bakery",
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Knead is a very cute bakery located at Kanha building, just opposite Sarit Centre. I had seen so many posts about it and being the pastry lover that I am, I had to check it out.

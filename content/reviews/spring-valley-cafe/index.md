@@ -13,7 +13,7 @@ tags:
     "Spring Valley Coffee",
     "Lavington",
   ]
-# featured: true
+featured: true
 ---
 
 So I’m a tea girl through and through but over the years I’ve really come to love a good cup of coffee, and not just any coffee, really good coffee. Spring Valley Coffee is probably one of the best coffee brands in Kenya & a personal fave! So when I heard that they had a cafe, of course I had to check it out.
