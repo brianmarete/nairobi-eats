@@ -20,7 +20,7 @@ tags:
     Yunion,
   ]
 slug: ""
-# featured: true
+featured: true
 ---
 
 Yunion is a brunch cafe and bar located at the GTC building in Westlands. It has a nice set up with both an indoor and outdoor section, outfitted very nicely, lots of greenery, lots of warm lighting - they also have a dinosaur statue outside which I found quite odd given their decor but I assume it has a purpose😄

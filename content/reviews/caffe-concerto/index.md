@@ -22,7 +22,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Ciao from Caffe Concerto, a super cozy and quaint Italian restaurant located in the heart of Kilimani. It’s a house turned restaurant that serves up a variety of authentic Italian meals made with traditional ingredients and a touch of that homemade goodness we all know and love from our own home cooked meals.

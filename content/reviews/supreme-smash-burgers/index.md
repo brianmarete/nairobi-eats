@@ -16,7 +16,7 @@ keywords:
     nairobi restaurant,
   ]
 slug: ""
-# featured: true
+featured: true
 ---
 
 Talking burgers today🍔 Smash Burgers opened shop a few months ago and judging from the public response - they’ve been quite a smash hit😉
