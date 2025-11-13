@@ -21,7 +21,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Bang Bang Thai is a stunning restaurant located at the village market - new wing (do we still call that side new?). It’s gives off a very welcoming aura right from the entrance that’s adorned with so much foliage you feel like you’re entering an enchanted forest ☺️
