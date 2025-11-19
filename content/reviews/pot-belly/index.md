@@ -19,7 +19,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Today we’re talking about the underrated Pot Belly restaurant & bar. I had not heard about this place until a few months ago and I immediately paid a visit when I discovered it along Matundu lane in Westlands.
