@@ -10,7 +10,7 @@ series: []
 tags:
   [nairobieats, Asian Food, Brunch In Nairobi, Pho Nairobi, Nairobi Restaurants]
 slug: "/the-arbor"
-featured: true
+# featured: true
 ---
 
 I’ve been wanting to visit the Arbor for many years now and finally got to do so a month ago with my aunt. Located on Manyani East road, the Arbor is a serene garden cafe that feels like a little escape from the city’s hustle and bustle.

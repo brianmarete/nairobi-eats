@@ -19,7 +19,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 I had the pleasure of trying out Birdy's Chicken & Chips a while back and I’m here to tell the tale 😊 Birdys is a vibrant chicken and chips shop tucked away in a nice corner of the Parklands area.
