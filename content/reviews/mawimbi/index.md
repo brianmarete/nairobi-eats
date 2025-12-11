@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 6am - 11pm"
 series: []
 tags: [nairobieats, Seafood, Fine Dining]
-# featured: true
+featured: true
 ---
 
 Let me first talk about the service - I love that the hostess who greeted me at the door was so nice and gave me different options to choose from to sit despite having reserved a table for my party of two already. The place is really beautiful, gives off all the right vibes, especially at night, by the pool, they have a great band who played well and once seated we were tended to by the nicest waiter named Museti. Where my experience started to falter though…

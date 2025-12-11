@@ -8,7 +8,7 @@ business_hours:
   - "Tue - Sun: 12pm - 11pm"
 series: []
 tags: [nairobieats, French Food, Tiramisu, Fine Dining, Chez Sonia]
-# featured: true
+featured: true
 ---
 
 Located in the Spring Valley area, this nice picturesque French eatery is a house turned into a restaurant and has such a vibey garden. I’ve been here a few times and each time I’ve tried a few different things just to go down their menu which is filled with a little bit of everything.

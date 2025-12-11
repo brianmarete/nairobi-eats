@@ -10,7 +10,7 @@ series: []
 tags: [nairobieats]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 I had the chance to visit the fairly new Mexican spot called Sazón a few weeks back. I had been wanting to try it for a while because it reminds me so much of the US food chain Chipotle which I love so much! Located at Westfield Mall, Sazón is a nice little eatery serving up fresh Mexican dishes, bringing a nice burst of colorful cuisine to the Nairobi food scene.
