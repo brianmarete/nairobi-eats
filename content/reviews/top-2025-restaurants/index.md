@@ -20,7 +20,7 @@ keywords:
     matcha,
   ]
 slug: "top-restaurants-2025"
-featured: true
+# featured: true
 type: list
 items:
   - title: "Bang Bang Thai ⭐️⭐️⭐️⭐️⭐️"
