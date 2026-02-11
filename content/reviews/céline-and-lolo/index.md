@@ -10,7 +10,7 @@ tags: [nairobieats, restaurant review, celineandlolo, french food nairobi, frenc
 ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Are we still saying happy new year? 🫣 or counting to Valentine’s Day 👀 whatever the case - it’s 2026 and Céline & Lolo is our 1st review of what I believe will be a great foodie year ahead!

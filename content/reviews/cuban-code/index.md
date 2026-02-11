@@ -1,6 +1,5 @@
 ---
 date: 2023-12-01T08:45:51.000Z
-# date: 2024-06-11T11:38:21+03:00
 title: Cuban Code
 draft: false
 maps_query: cuban+code+lavington+nairobi+kenya
@@ -9,7 +8,7 @@ business_hours:
   - "Thur - Sun: 11am - 3am"
 cover_dimming_class: bg-black-40
 tags: ["nairobieats", "Cuban Code", "Cuban Sandwich", "Lavington"]
-featured: true
+# featured: true
 ---
 
 A new joint that’s giving Instagram girlies a run for their money is Cuban Code, a restaurant + cigar lounge located on Muthangari Road. I really have to say though - for a restaurant this fancy, why don’t they have signage on the road? I really thought Google maps had failed me because it leads you to this big office block called African Guarantee Fund - a building that looks VERY closed on weekends. I didn't even expect to be allowed in only to be told that that is where the restaurant is located😅They need to get signage please.
