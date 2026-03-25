@@ -21,7 +21,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Hellena’s kitchen is located at the Basic Shopping mall in Kileleshwa. From the name alone you’d think it’s a nice, small hole in the wall type place but it’s quite the opposite. The well lit entryway already gives you the impression of a much bigger establishment and as you walk in you see just how much more than just a kitchen it is.

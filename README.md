@@ -13,4 +13,4 @@ Do the following:
 #### How to make links in Hugo
 
 Example:
-[Ayeyo]({{< relref "/ayeyo">}})
+[Ayeyo]({{< relref "/ayeyo">}}) - Relative Links

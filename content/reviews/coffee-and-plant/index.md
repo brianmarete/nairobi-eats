@@ -21,7 +21,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Coffee & Plant is a nice vibrant cafe located along General Mathenge Road in Westlands. Randomly stumbled upon their page on Instagram and said I had to go check it out particularly because they specialise in plant based cuisine and a fusion of specialty coffee. I also originally thought they sell plants too due to the name but I was immediately corrected once I got there.

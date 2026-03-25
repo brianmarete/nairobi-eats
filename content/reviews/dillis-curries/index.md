@@ -1,6 +1,5 @@
 ---
 date: 2024-01-26T09:28:52+03:00
-# date: 2024-03-13T22:17:31+03:00
 title: "Dillis Curries"
 draft: false
 maps_query: "DILLI!+-+Curries+%26+Grill"
@@ -9,6 +8,7 @@ business_hours:
 series:
   - "Ando Foods"
 tags: [nairobieats, Cloud Kitchen, Ando Foods]
+featured: true
 ---
 
 My love for butter chicken has no bounds and Ando Foods get it right every time. Butter chicken is and will forever be a fave! The Palak Paneer was a first for me to try this year & the lactose intolerant in me persevered & survived.
