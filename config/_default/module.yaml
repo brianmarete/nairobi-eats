@@ -1,2 +1,5 @@
+module:
+  hugoVersion:
+    min: "0.126.1"
 imports:
   - path: github.com/hugomods/search
