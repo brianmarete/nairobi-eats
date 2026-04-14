@@ -22,7 +22,7 @@ keywords:
     restaurants in westlands,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 The Good Grain is an artisanal micro-bakery located just off waiyaki way. I’ve always heard good things about this place so I was very excited to check it out. It’s quite a small space (hence the micro) but still spacious enough to not feel crowded when customers stream in and out. Love the little patches of green at either side of the entrance where you’ll most likely find 2 - 3 people sprawled on raffia mats basking in the Nairobi sun while enjoying a coffee and a pastry or two.
