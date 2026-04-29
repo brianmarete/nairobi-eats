@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 The Liquor Library is located in the lush Tigoni neighbourhood, just about a 45min from Nairobi. First thing to note - they need better signage. It really took us forever to find the right turn to get here because there’s no signage on the main road right up until you drive into the compound… not very useful even for a ‘hidden gem’.

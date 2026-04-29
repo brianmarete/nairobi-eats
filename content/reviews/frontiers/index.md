@@ -21,7 +21,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 We’re in Nanyuki today! Talking about Frontiers coffee bar and restaurant located at One Stop, Nanyuki town. It’s a beautiful outdoor space and nice reprieve after a long drive coming into Nanyuki from Nairobi.

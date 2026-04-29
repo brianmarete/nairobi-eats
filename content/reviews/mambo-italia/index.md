@@ -21,7 +21,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Located at the Lavington curve mall, Mambo Italia is a pizzeria that has truly never disappointed me in the many years it’s been in existence.
