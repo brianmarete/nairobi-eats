@@ -18,7 +18,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 This charming restaurant is located along Marula lane in Karen. I love how vibrant it is right from the entrance with beautiful art works on display along the vast corridor that opens up to a stunning garden setup with lots of seating space and fun decor draped with lesos and ankara fabric.

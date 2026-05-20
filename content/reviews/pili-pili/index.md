@@ -36,5 +36,3 @@ Service: ⭐️⭐️⭐️<br>
 Ambience: ⭐️⭐️⭐️⭐️⭐️<br>
 
 ### Menu
-
-{{< remote-image-gallery key="pili-pili-menu" >}}

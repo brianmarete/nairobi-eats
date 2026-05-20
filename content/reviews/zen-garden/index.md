@@ -18,7 +18,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Zen garden is a scenic restaurant located in the lush Spring Valley neighbourhood. I hadn’t been back here in very many years so my visit a few weeks ago was a nice refresher. Zen Garden is exactly as the name suggests - a zen garden. There’s a great tranquility that covers the place so you already feel zen just upon entry.

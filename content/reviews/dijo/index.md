@@ -25,7 +25,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Bonjour from the picturesque Dijo rooftop bar & restaurant! Located at the top of the Mandrake in Westlands, Dijo is a contemporary French restaurant and gastro bar that serves unique French bistro cuisine, distinct cocktails and a stunning 360° panoramic view of the city.
