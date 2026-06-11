@@ -19,7 +19,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Pop’s Diner, located in Mwanzi Market, Westlands is possibly Nairobi’s first American style diner and as someone who spent a good chunk of her life on that side of the world, I was very excited to have a classic diner experience right here without incurring a flight cost.
