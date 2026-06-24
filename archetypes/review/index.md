@@ -21,6 +21,7 @@ Here goes the main content.
 Food: ⭐️⭐️⭐️<br>
 Service: ⭐️️⭐️⭐️<br>
 Ambience: ⭐⭐️⭐️<br>
+Halal: ❌
 
 ### Menu
 

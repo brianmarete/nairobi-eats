@@ -10,7 +10,7 @@ tags: [nairobieats]
 keywords: [nairobieats, sushi in nairobi, japanese cuisine kenya, restaurant review, haru restaurant, haru menu, date night spots nairobi, chicken teriyaki, sake nairobi, restaurants in karen
 ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Haru is a Japanese restaurant located in Karen, just along Karen road. They’ve been in business for over 16 years and are a staple in the Nairobi food scene.
