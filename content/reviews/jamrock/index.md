@@ -7,7 +7,7 @@ business_hours:
   - "Mon - Sun: 12pm - 10pm"
 series: []
 tags: [nairobieats, Jamaican Food, Happy Hour Nairobi, Nairobi Restaurants]
-# featured: true
+featured: true
 ---
 
 This place was such a great random find thanks to a friend of mine who is actually Jamaican. Jamrock is a literal hole in the wall type restaurant located at GW Brook Business Park. You can spot it immediately you enter because who’s gonna miss the international reggae colours of red, green and yellow?😊

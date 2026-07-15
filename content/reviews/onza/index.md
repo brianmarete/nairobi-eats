@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Onza is a very chic Mediterranean and French restaurant and bar located at Westgate mall. It’s been on my list for quite some time so glad I got to finally tick it off this past weekend.
