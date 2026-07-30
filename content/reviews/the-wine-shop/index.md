@@ -19,7 +19,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 The wine shop is a premier wine bar and restaurant located on Loresho ridge. It’s quite a drive to get there if you don’t already live in the suburbs but definitely worth it for a sunny afternoon of food, wine and good vibes. There is very limited parking here so if you can cab, that would be better and the restaurant itself is not massive so to avoid any disappointments, make reservations in advance.
