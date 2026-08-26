@@ -6,10 +6,19 @@ maps_query: "%C3%94Kia+Cafe+Riverside,+Riverside+Drive,+Nairobi"
 business_hours:
   - "Mon - Sun: 8am - 8pm"
 series: []
-tags: [nairobieats, restaurant review, okai cafe menu, vietnamese coffee in nairobi, nairobi coffee shops, restaurants in riverside, vietnamese food]
+tags:
+  [
+    nairobieats,
+    restaurant review,
+    okai cafe menu,
+    vietnamese coffee in nairobi,
+    nairobi coffee shops,
+    restaurants in riverside,
+    vietnamese food,
+  ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 A few months ago, I chanced upon the page of a new Vietnamese cafe called Ôkia and made a mental note to check it out. A few days after that I saw that the proprietor of [Măm Măm](/reviews/mam-mam/), the Vietnamese spot in Westlands, was also the proprietor of Ôkia Cafe and made an even more solid note to check it out because she had done such a great job at măm măm already.
@@ -45,7 +54,6 @@ Pandan is a plant native to Southeast Asia, its leaves have a sweet, nutty taste
 Suffice it to say we had to force ourselves to run errands after such a filling meal because what we truly wanted was to obey the itis and take a nap 😅
 
 Ôkia cafe is a great place to work from if you’re looking for a change of scenery. It makes for a great meeting spot for work meetings or otherwise and I feel it could also work well for casual coffee dates if you’re not ready for a super serious first date yet.
-
 
 ### Ratings
 
