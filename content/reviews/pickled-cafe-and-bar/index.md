@@ -20,7 +20,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Pickled is a cafe & bar located off Olenguruone Avenue in Lavington - where Nabo Bistro used to be.

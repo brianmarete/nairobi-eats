@@ -16,7 +16,7 @@ tags:
     Somali Restaurant,
   ]
 slug: ""
-featured: true
+# featured: true
 ---
 
 [Ayeyo]({{< relref "/ayeyo">}}) now has a dine-in restaurant! Love seeing a restaurant making big strides in such a short time😊 Located on the ground floor of Timau Plaza, Ayeyo takes up a nice little corner of the floor welcoming you with its stunning yet minimalist decor. Warm lighting, lush plants, comfy, cozy seats and a beautifully tiled backdrop in a stunning yet understated green… Everything here was outfitted in great detail and as a lover of great interior design, I was very pleased to see all the little bits and bobs that make up Ayeyo come to life.
