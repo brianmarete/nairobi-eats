@@ -21,7 +21,7 @@ tags:
   ]
 keywords: [nairobieats]
 slug: ""
-featured: true
+# featured: true
 ---
 
 Stories coffee is a coffee shop located along Muthangari drive in Lavington. Originally from Beirut, Stories serves signature coffees and rich Lebanese dishes.
